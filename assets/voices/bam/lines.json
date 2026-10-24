@@ -249,5 +249,189 @@
 "smile"
 ]
 ]
+},
+"ss_open": {
+"src": "ss_open.mp3",
+"text": "Let's open the pouches!",
+"seconds": 2.09,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"mid"
+],
+[
+0.46,
+"smile"
+],
+[
+0.65,
+"oh"
+],
+[
+0.77,
+"smile"
+],
+[
+0.83,
+"mid"
+],
+[
+1.11,
+"smile"
+],
+[
+1.18,
+"open"
+],
+[
+1.25,
+"oo"
+],
+[
+1.39,
+"mid"
+],
+[
+1.54,
+"smile"
+]
+]
+},
+"ss_yay": {
+"src": "ss_yay.mp3",
+"text": "Yay! Level!",
+"seconds": 1.9,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.11,
+"ee"
+],
+[
+0.27,
+"mid"
+],
+[
+0.56,
+"ee"
+],
+[
+0.9,
+"mid"
+],
+[
+1.17,
+"ee"
+],
+[
+1.24,
+"mid"
+],
+[
+1.5,
+"smile"
+]
+]
+},
+"ss_split": {
+"src": "ss_split.mp3",
+"text": "Tap a weight to split it.",
+"seconds": 2.07,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"open"
+],
+[
+0.52,
+"smile"
+],
+[
+0.69,
+"mid"
+],
+[
+0.79,
+"ee"
+],
+[
+0.92,
+"smile"
+],
+[
+1.08,
+"oo"
+],
+[
+1.24,
+"smile"
+],
+[
+1.3,
+"ee"
+],
+[
+1.62,
+"smile"
+]
+]
+},
+"ss_end": {
+"src": "ss_end.mp3",
+"text": "Your balance mobile!",
+"seconds": 1.65,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.13,
+"oh"
+],
+[
+0.35,
+"smile"
+],
+[
+0.41,
+"open"
+],
+[
+0.52,
+"mid"
+],
+[
+0.72,
+"ee"
+],
+[
+0.85,
+"oh"
+],
+[
+1.01,
+"smile"
+],
+[
+1.09,
+"mid"
+],
+[
+1.35,
+"smile"
+]
+]
 }
 }
