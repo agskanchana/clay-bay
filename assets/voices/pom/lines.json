@@ -1,0 +1,2511 @@
+{
+"hi": {
+"src": "hi.mp3",
+"text": "Hi! I'm Pom! Let's play!",
+"seconds": 2.93,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"open"
+],
+[
+0.79,
+"ee"
+],
+[
+0.91,
+"smile"
+],
+[
+1.11,
+"open"
+],
+[
+1.21,
+"smile"
+],
+[
+1.44,
+"oh"
+],
+[
+1.7,
+"smile"
+],
+[
+1.96,
+"mid"
+],
+[
+2.12,
+"ee"
+],
+[
+2.25,
+"smile"
+],
+[
+2.31,
+"mid"
+],
+[
+2.48,
+"ee"
+],
+[
+2.56,
+"smile"
+]
+]
+},
+"pp_intro": {
+"src": "pp_intro.mp3",
+"text": "Press the clay with your fingers! How many Peeps can ride the train?",
+"seconds": 4.1,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"mid"
+],
+[
+0.54,
+"ee"
+],
+[
+0.65,
+"mid"
+],
+[
+0.95,
+"ee"
+],
+[
+1.61,
+"mid"
+],
+[
+1.75,
+"smile"
+],
+[
+2.1,
+"open"
+],
+[
+2.31,
+"smile"
+],
+[
+2.36,
+"ee"
+],
+[
+2.56,
+"smile"
+],
+[
+2.61,
+"ee"
+],
+[
+2.77,
+"smile"
+],
+[
+2.83,
+"ee"
+],
+[
+2.94,
+"open"
+],
+[
+3.23,
+"ee"
+],
+[
+3.44,
+"mid"
+],
+[
+3.61,
+"ee"
+],
+[
+3.77,
+"smile"
+]
+]
+},
+"pp_go": {
+"src": "pp_go.mp3",
+"text": "How many Peeps can ride this time?",
+"seconds": 3.0,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.66,
+"open"
+],
+[
+0.84,
+"oo"
+],
+[
+0.92,
+"smile"
+],
+[
+0.98,
+"ee"
+],
+[
+1.2,
+"smile"
+],
+[
+1.25,
+"ee"
+],
+[
+1.42,
+"smile"
+],
+[
+1.47,
+"ee"
+],
+[
+1.59,
+"open"
+],
+[
+1.89,
+"ee"
+],
+[
+2.29,
+"open"
+],
+[
+2.4,
+"ee"
+],
+[
+2.5,
+"smile"
+]
+]
+},
+"pp_fill": {
+"src": "pp_fill.mp3",
+"text": "Fill every seat!",
+"seconds": 1.98,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"ee"
+],
+[
+0.68,
+"mid"
+],
+[
+0.92,
+"ee"
+],
+[
+1.01,
+"mid"
+],
+[
+1.14,
+"ee"
+],
+[
+1.23,
+"smile"
+],
+[
+1.29,
+"ee"
+],
+[
+1.64,
+"smile"
+]
+]
+},
+"pp_hand": {
+"src": "pp_hand.mp3",
+"text": "Try a whole hand!",
+"seconds": 2.07,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.47,
+"mid"
+],
+[
+0.54,
+"open"
+],
+[
+0.65,
+"ee"
+],
+[
+0.76,
+"mid"
+],
+[
+0.84,
+"oh"
+],
+[
+1.0,
+"oo"
+],
+[
+1.09,
+"mid"
+],
+[
+1.2,
+"open"
+],
+[
+1.48,
+"ee"
+],
+[
+1.62,
+"smile"
+]
+]
+},
+"pp_some": {
+"src": "pp_some.mp3",
+"text": "Some Peeps are on the train already. Fill the empty seats!",
+"seconds": 3.63,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.26,
+"ee"
+],
+[
+0.35,
+"mid"
+],
+[
+0.52,
+"smile"
+],
+[
+0.65,
+"ee"
+],
+[
+0.8,
+"smile"
+],
+[
+0.86,
+"open"
+],
+[
+1.16,
+"mid"
+],
+[
+1.36,
+"ee"
+],
+[
+1.47,
+"oh"
+],
+[
+1.57,
+"mid"
+],
+[
+1.75,
+"ee"
+],
+[
+1.89,
+"smile"
+],
+[
+2.19,
+"ee"
+],
+[
+2.42,
+"mid"
+],
+[
+2.52,
+"smile"
+],
+[
+2.79,
+"ee"
+],
+[
+3.21,
+"smile"
+]
+]
+},
+"pp_quick": {
+"src": "pp_quick.mp3",
+"text": "Quick! Look at the Peeps!",
+"seconds": 2.36,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.61,
+"ee"
+],
+[
+0.85,
+"smile"
+],
+[
+1.2,
+"oo"
+],
+[
+1.4,
+"mid"
+],
+[
+1.53,
+"smile"
+],
+[
+1.59,
+"ee"
+],
+[
+1.8,
+"smile"
+],
+[
+1.86,
+"ee"
+],
+[
+1.96,
+"smile"
+]
+]
+},
+"pp_quick2": {
+"src": "pp_quick2.mp3",
+"text": "How many did you see? Press that many!",
+"seconds": 2.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"open"
+],
+[
+0.61,
+"mid"
+],
+[
+0.71,
+"ee"
+],
+[
+0.88,
+"smile"
+],
+[
+0.93,
+"ee"
+],
+[
+1.11,
+"oo"
+],
+[
+1.21,
+"ee"
+],
+[
+1.54,
+"smile"
+],
+[
+1.91,
+"mid"
+],
+[
+2.06,
+"ee"
+],
+[
+2.19,
+"open"
+],
+[
+2.33,
+"smile"
+],
+[
+2.4,
+"mid"
+],
+[
+2.5,
+"ee"
+],
+[
+2.63,
+"smile"
+]
+]
+},
+"pp_again": {
+"src": "pp_again.mp3",
+"text": "Let's look again!",
+"seconds": 1.6,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"mid"
+],
+[
+0.56,
+"ee"
+],
+[
+0.69,
+"oo"
+],
+[
+0.92,
+"smile"
+],
+[
+0.98,
+"mid"
+],
+[
+1.28,
+"smile"
+]
+]
+},
+"pp_hand5": {
+"src": "pp_hand5.mp3",
+"text": "A whole hand is five!",
+"seconds": 2.45,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"mid"
+],
+[
+0.4,
+"oh"
+],
+[
+0.57,
+"oo"
+],
+[
+0.67,
+"mid"
+],
+[
+0.77,
+"open"
+],
+[
+1.06,
+"ee"
+],
+[
+1.21,
+"smile"
+],
+[
+1.32,
+"ee"
+],
+[
+1.5,
+"smile"
+],
+[
+1.6,
+"ee"
+],
+[
+1.7,
+"open"
+],
+[
+1.81,
+"ee"
+],
+[
+2.0,
+"smile"
+]
+]
+},
+"pp_extra": {
+"src": "pp_extra.mp3",
+"text": "Oh! That Peep has no seat. Tap it to send it home!",
+"seconds": 4.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"oh"
+],
+[
+0.53,
+"oo"
+],
+[
+0.7,
+"smile"
+],
+[
+1.06,
+"open"
+],
+[
+1.24,
+"smile"
+],
+[
+1.3,
+"ee"
+],
+[
+1.47,
+"smile"
+],
+[
+1.53,
+"open"
+],
+[
+1.68,
+"ee"
+],
+[
+2.29,
+"smile"
+],
+[
+2.75,
+"open"
+],
+[
+2.92,
+"smile"
+],
+[
+2.98,
+"ee"
+],
+[
+3.11,
+"mid"
+],
+[
+3.35,
+"ee"
+],
+[
+3.48,
+"oh"
+],
+[
+3.62,
+"smile"
+]
+]
+},
+"pp_few": {
+"src": "pp_few.mp3",
+"text": "Is every seat full?",
+"seconds": 1.87,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"ee"
+],
+[
+0.6,
+"mid"
+],
+[
+0.83,
+"ee"
+],
+[
+1.18,
+"smile"
+],
+[
+1.29,
+"oo"
+],
+[
+1.49,
+"smile"
+]
+]
+},
+"pp_palm": {
+"src": "pp_palm.mp3",
+"text": "Use your fingertips!",
+"seconds": 2.09,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.46,
+"oo"
+],
+[
+0.67,
+"ee"
+],
+[
+0.88,
+"mid"
+],
+[
+0.99,
+"ee"
+],
+[
+1.33,
+"mid"
+],
+[
+1.49,
+"ee"
+],
+[
+1.7,
+"smile"
+]
+]
+},
+"pp_yay": {
+"src": "pp_yay.mp3",
+"text": "Yay! Just right!",
+"seconds": 2.19,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"ee"
+],
+[
+0.3,
+"mid"
+],
+[
+0.53,
+"ee"
+],
+[
+0.72,
+"smile"
+],
+[
+1.09,
+"open"
+],
+[
+1.25,
+"ee"
+],
+[
+1.39,
+"mid"
+],
+[
+1.47,
+"open"
+],
+[
+1.6,
+"ee"
+],
+[
+1.77,
+"smile"
+]
+]
+},
+"pp_great": {
+"src": "pp_great.mp3",
+"text": "Great counting!",
+"seconds": 1.98,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"mid"
+],
+[
+0.6,
+"ee"
+],
+[
+0.77,
+"smile"
+],
+[
+0.93,
+"open"
+],
+[
+1.04,
+"oo"
+],
+[
+1.14,
+"ee"
+],
+[
+1.57,
+"smile"
+]
+]
+},
+"pp_well": {
+"src": "pp_well.mp3",
+"text": "Well done!",
+"seconds": 1.49,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"mid"
+],
+[
+0.61,
+"ee"
+],
+[
+0.7,
+"open"
+],
+[
+1.04,
+"ee"
+],
+[
+1.18,
+"smile"
+]
+]
+},
+"pp_toot": {
+"src": "pp_toot.mp3",
+"text": "All aboard! Toot toot!",
+"seconds": 2.19,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.26,
+"oh"
+],
+[
+0.47,
+"mid"
+],
+[
+0.54,
+"smile"
+],
+[
+0.62,
+"mid"
+],
+[
+0.79,
+"smile"
+],
+[
+0.85,
+"oh"
+],
+[
+1.02,
+"smile"
+],
+[
+1.31,
+"oo"
+],
+[
+1.43,
+"ee"
+],
+[
+1.57,
+"oo"
+],
+[
+1.74,
+"smile"
+]
+]
+},
+"pp_bye": {
+"src": "pp_bye.mp3",
+"text": "Bye bye, Peeps!",
+"seconds": 1.56,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.42,
+"open"
+],
+[
+0.57,
+"smile"
+],
+[
+0.64,
+"open"
+],
+[
+0.78,
+"smile"
+],
+[
+0.86,
+"ee"
+],
+[
+1.12,
+"smile"
+],
+[
+1.21,
+"ee"
+],
+[
+1.33,
+"smile"
+]
+]
+},
+"pp_end": {
+"src": "pp_end.mp3",
+"text": "You filled every train! Hooray!",
+"seconds": 2.94,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"oo"
+],
+[
+0.61,
+"ee"
+],
+[
+0.83,
+"mid"
+],
+[
+1.17,
+"ee"
+],
+[
+1.33,
+"mid"
+],
+[
+1.58,
+"ee"
+],
+[
+1.81,
+"smile"
+],
+[
+1.96,
+"oo"
+],
+[
+2.23,
+"mid"
+],
+[
+2.42,
+"ee"
+],
+[
+2.52,
+"smile"
+]
+]
+},
+"n1": {
+"src": "n1.mp3",
+"text": "One!",
+"seconds": 1.1,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.28,
+"oo"
+],
+[
+0.37,
+"open"
+],
+[
+0.65,
+"ee"
+],
+[
+0.76,
+"smile"
+]
+]
+},
+"n2": {
+"src": "n2.mp3",
+"text": "Two!",
+"seconds": 0.84,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.1,
+"oo"
+],
+[
+0.45,
+"smile"
+]
+]
+},
+"n3": {
+"src": "n3.mp3",
+"text": "Three!",
+"seconds": 1.0,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.33,
+"ee"
+],
+[
+0.56,
+"smile"
+]
+]
+},
+"n4": {
+"src": "n4.mp3",
+"text": "Four!",
+"seconds": 1.19,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.48,
+"ee"
+],
+[
+0.55,
+"oh"
+],
+[
+0.76,
+"smile"
+]
+]
+},
+"n5": {
+"src": "n5.mp3",
+"text": "Five!",
+"seconds": 1.08,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"ee"
+],
+[
+0.39,
+"open"
+],
+[
+0.5,
+"ee"
+],
+[
+0.65,
+"smile"
+]
+]
+},
+"n6": {
+"src": "n6.mp3",
+"text": "Six!",
+"seconds": 0.91,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.06,
+"ee"
+],
+[
+0.61,
+"smile"
+]
+]
+},
+"n7": {
+"src": "n7.mp3",
+"text": "Seven!",
+"seconds": 1.12,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.26,
+"ee"
+],
+[
+0.35,
+"mid"
+],
+[
+0.53,
+"ee"
+],
+[
+0.61,
+"mid"
+],
+[
+0.8,
+"smile"
+]
+]
+},
+"n8": {
+"src": "n8.mp3",
+"text": "Eight!",
+"seconds": 1.13,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.58,
+"ee"
+],
+[
+0.8,
+"smile"
+]
+]
+},
+"n9": {
+"src": "n9.mp3",
+"text": "Nine!",
+"seconds": 1.05,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.12,
+"ee"
+],
+[
+0.26,
+"open"
+],
+[
+0.46,
+"ee"
+],
+[
+0.74,
+"smile"
+]
+]
+},
+"n10": {
+"src": "n10.mp3",
+"text": "Ten!",
+"seconds": 0.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"mid"
+],
+[
+0.54,
+"ee"
+],
+[
+0.64,
+"smile"
+]
+]
+},
+"peeps1": {
+"src": "peeps1.mp3",
+"text": "One Peep!",
+"seconds": 1.34,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.32,
+"open"
+],
+[
+0.55,
+"ee"
+],
+[
+0.67,
+"smile"
+],
+[
+0.73,
+"ee"
+],
+[
+0.94,
+"smile"
+]
+]
+},
+"peeps2": {
+"src": "peeps2.mp3",
+"text": "Two Peeps!",
+"seconds": 1.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.24,
+"oo"
+],
+[
+0.61,
+"smile"
+],
+[
+0.69,
+"ee"
+],
+[
+0.94,
+"smile"
+],
+[
+1.02,
+"ee"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"peeps3": {
+"src": "peeps3.mp3",
+"text": "Three Peeps!",
+"seconds": 1.48,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.19,
+"ee"
+],
+[
+0.28,
+"mid"
+],
+[
+0.36,
+"ee"
+],
+[
+0.61,
+"smile"
+],
+[
+0.68,
+"ee"
+],
+[
+0.92,
+"smile"
+],
+[
+0.99,
+"ee"
+],
+[
+1.11,
+"smile"
+]
+]
+},
+"peeps4": {
+"src": "peeps4.mp3",
+"text": "Four Peeps!",
+"seconds": 1.43,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.47,
+"oh"
+],
+[
+0.66,
+"smile"
+],
+[
+0.72,
+"ee"
+],
+[
+0.9,
+"smile"
+],
+[
+0.95,
+"ee"
+],
+[
+1.04,
+"smile"
+]
+]
+},
+"peeps5": {
+"src": "peeps5.mp3",
+"text": "Five Peeps!",
+"seconds": 1.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.28,
+"open"
+],
+[
+0.36,
+"ee"
+],
+[
+0.55,
+"smile"
+],
+[
+0.62,
+"ee"
+],
+[
+0.88,
+"smile"
+],
+[
+0.94,
+"ee"
+],
+[
+1.06,
+"smile"
+]
+]
+},
+"peeps6": {
+"src": "peeps6.mp3",
+"text": "Six Peeps!",
+"seconds": 1.24,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.12,
+"ee"
+],
+[
+0.46,
+"smile"
+],
+[
+0.52,
+"ee"
+],
+[
+0.72,
+"smile"
+],
+[
+0.79,
+"ee"
+],
+[
+0.9,
+"smile"
+]
+]
+},
+"peeps7": {
+"src": "peeps7.mp3",
+"text": "Seven Peeps!",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"mid"
+],
+[
+0.81,
+"smile"
+],
+[
+0.9,
+"ee"
+],
+[
+1.17,
+"smile"
+],
+[
+1.24,
+"ee"
+],
+[
+1.38,
+"smile"
+]
+]
+},
+"peeps8": {
+"src": "peeps8.mp3",
+"text": "Eight Peeps!",
+"seconds": 1.58,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.47,
+"ee"
+],
+[
+0.56,
+"smile"
+],
+[
+0.76,
+"ee"
+],
+[
+1.04,
+"smile"
+],
+[
+1.14,
+"ee"
+],
+[
+1.27,
+"smile"
+]
+]
+},
+"peeps9": {
+"src": "peeps9.mp3",
+"text": "Nine Peeps!",
+"seconds": 1.49,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"ee"
+],
+[
+0.45,
+"open"
+],
+[
+0.57,
+"ee"
+],
+[
+0.74,
+"smile"
+],
+[
+0.8,
+"ee"
+],
+[
+0.93,
+"smile"
+]
+]
+},
+"peeps10": {
+"src": "peeps10.mp3",
+"text": "Ten Peeps!",
+"seconds": 1.69,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.28,
+"ee"
+],
+[
+0.36,
+"mid"
+],
+[
+0.64,
+"ee"
+],
+[
+0.77,
+"smile"
+],
+[
+0.85,
+"ee"
+],
+[
+1.12,
+"smile"
+],
+[
+1.21,
+"ee"
+],
+[
+1.35,
+"smile"
+]
+]
+},
+"cm_spots5_horns2": {
+"src": "cm_spots5_horns2.mp3",
+"text": "Can I have a friend with five spots and two horns, please?",
+"seconds": 4.18,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.51,
+"open"
+],
+[
+1.04,
+"smile"
+],
+[
+1.15,
+"mid"
+],
+[
+1.41,
+"ee"
+],
+[
+1.61,
+"smile"
+],
+[
+1.81,
+"ee"
+],
+[
+1.91,
+"open"
+],
+[
+2.02,
+"ee"
+],
+[
+2.29,
+"smile"
+],
+[
+2.34,
+"open"
+],
+[
+2.52,
+"ee"
+],
+[
+2.67,
+"mid"
+],
+[
+2.77,
+"ee"
+],
+[
+2.9,
+"oo"
+],
+[
+3.06,
+"oh"
+],
+[
+3.33,
+"ee"
+],
+[
+3.52,
+"smile"
+],
+[
+3.58,
+"ee"
+],
+[
+3.9,
+"smile"
+]
+]
+},
+"cm_double4": {
+"src": "cm_double4.mp3",
+"text": "Please make me a friend with double four spots!",
+"seconds": 3.14,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"mid"
+],
+[
+0.48,
+"ee"
+],
+[
+0.76,
+"smile"
+],
+[
+0.81,
+"ee"
+],
+[
+0.95,
+"smile"
+],
+[
+1.01,
+"ee"
+],
+[
+1.11,
+"mid"
+],
+[
+1.46,
+"ee"
+],
+[
+1.73,
+"mid"
+],
+[
+1.82,
+"smile"
+],
+[
+1.89,
+"mid"
+],
+[
+2.02,
+"oh"
+],
+[
+2.23,
+"ee"
+],
+[
+2.33,
+"smile"
+],
+[
+2.4,
+"open"
+],
+[
+2.6,
+"ee"
+],
+[
+2.77,
+"smile"
+]
+]
+},
+"cm_double6": {
+"src": "cm_double6.mp3",
+"text": "Please make me a friend with double six spots!",
+"seconds": 3.87,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.92,
+"ee"
+],
+[
+1.18,
+"smile"
+],
+[
+1.24,
+"mid"
+],
+[
+1.34,
+"ee"
+],
+[
+1.46,
+"smile"
+],
+[
+1.52,
+"ee"
+],
+[
+1.62,
+"mid"
+],
+[
+2.02,
+"ee"
+],
+[
+2.23,
+"smile"
+],
+[
+2.4,
+"mid"
+],
+[
+2.48,
+"smile"
+],
+[
+2.54,
+"mid"
+],
+[
+2.67,
+"ee"
+],
+[
+3.1,
+"smile"
+],
+[
+3.17,
+"open"
+],
+[
+3.38,
+"ee"
+],
+[
+3.54,
+"smile"
+]
+]
+},
+"cm_yes": {
+"src": "cm_yes.mp3",
+"text": "It matches my card! Thank you!",
+"seconds": 3.3,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.6,
+"ee"
+],
+[
+0.72,
+"open"
+],
+[
+0.84,
+"oo"
+],
+[
+0.98,
+"mid"
+],
+[
+1.14,
+"smile"
+],
+[
+1.2,
+"ee"
+],
+[
+1.43,
+"open"
+],
+[
+1.75,
+"mid"
+],
+[
+1.89,
+"ee"
+],
+[
+1.98,
+"smile"
+],
+[
+2.25,
+"open"
+],
+[
+2.4,
+"ee"
+],
+[
+2.61,
+"oo"
+],
+[
+2.96,
+"smile"
+]
+]
+},
+"cm_not": {
+"src": "cm_not.mp3",
+"text": "Hmm. That's not quite like my card.",
+"seconds": 3.79,
+"cues": [
+[
+0.0,
+"mid"
+],
+[
+0.59,
+"smile"
+],
+[
+1.71,
+"open"
+],
+[
+1.84,
+"ee"
+],
+[
+2.0,
+"open"
+],
+[
+2.09,
+"ee"
+],
+[
+2.35,
+"open"
+],
+[
+2.5,
+"ee"
+],
+[
+2.73,
+"open"
+],
+[
+2.81,
+"ee"
+],
+[
+2.92,
+"smile"
+],
+[
+2.98,
+"ee"
+],
+[
+3.17,
+"open"
+],
+[
+3.31,
+"smile"
+]
+]
+},
+"pk_intro": {
+"src": "pk_intro.mp3",
+"text": "Peek-a-Peep! Some Peeps will peep out. Look quickly!",
+"seconds": 3.81,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"ee"
+],
+[
+0.64,
+"smile"
+],
+[
+0.69,
+"ee"
+],
+[
+0.9,
+"smile"
+],
+[
+1.44,
+"mid"
+],
+[
+1.56,
+"smile"
+],
+[
+1.68,
+"ee"
+],
+[
+1.83,
+"smile"
+],
+[
+1.9,
+"ee"
+],
+[
+2.13,
+"smile"
+],
+[
+2.19,
+"ee"
+],
+[
+2.35,
+"smile"
+],
+[
+2.81,
+"oo"
+],
+[
+2.92,
+"ee"
+],
+[
+3.36,
+"smile"
+]
+]
+},
+"pk_how": {
+"src": "pk_how.mp3",
+"text": "How many did you see?",
+"seconds": 1.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"open"
+],
+[
+0.51,
+"smile"
+],
+[
+0.56,
+"mid"
+],
+[
+0.65,
+"ee"
+],
+[
+0.96,
+"oo"
+],
+[
+1.08,
+"ee"
+],
+[
+1.41,
+"smile"
+]
+]
+},
+"pk_look": {
+"src": "pk_look.mp3",
+"text": "Look!",
+"seconds": 1.09,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"mid"
+],
+[
+0.4,
+"oo"
+],
+[
+0.65,
+"smile"
+]
+]
+},
+"pk_again": {
+"src": "pk_again.mp3",
+"text": "Let's look again!",
+"seconds": 1.64,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"mid"
+],
+[
+0.43,
+"smile"
+],
+[
+0.65,
+"oo"
+],
+[
+0.8,
+"smile"
+],
+[
+0.86,
+"mid"
+],
+[
+1.15,
+"ee"
+],
+[
+1.27,
+"smile"
+]
+]
+},
+"pk_end": {
+"src": "pk_end.mp3",
+"text": "Super looking!",
+"seconds": 1.57,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.26,
+"ee"
+],
+[
+0.35,
+"oo"
+],
+[
+0.53,
+"smile"
+],
+[
+0.59,
+"mid"
+],
+[
+0.74,
+"oo"
+],
+[
+0.89,
+"ee"
+],
+[
+1.24,
+"smile"
+]
+]
+},
+"dress_hi": {
+"src": "dress_hi.mp3",
+"text": "Dress-up time! Tap the clothes to try them on.",
+"seconds": 3.79,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.53,
+"mid"
+],
+[
+0.78,
+"ee"
+],
+[
+0.93,
+"smile"
+],
+[
+1.02,
+"ee"
+],
+[
+1.1,
+"open"
+],
+[
+1.27,
+"ee"
+],
+[
+1.41,
+"smile"
+],
+[
+1.86,
+"open"
+],
+[
+2.0,
+"smile"
+],
+[
+2.12,
+"mid"
+],
+[
+2.31,
+"oh"
+],
+[
+2.4,
+"ee"
+],
+[
+2.6,
+"oo"
+],
+[
+2.85,
+"ee"
+],
+[
+2.94,
+"mid"
+],
+[
+3.02,
+"smile"
+],
+[
+3.08,
+"open"
+],
+[
+3.25,
+"smile"
+]
+]
+},
+"dress_good": {
+"src": "dress_good.mp3",
+"text": "Looking good!",
+"seconds": 1.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.48,
+"oo"
+],
+[
+0.61,
+"ee"
+],
+[
+0.96,
+"oo"
+],
+[
+1.26,
+"ee"
+],
+[
+1.34,
+"smile"
+]
+]
+},
+"dress_coins": {
+"src": "dress_coins.mp3",
+"text": "Play a game to earn more coins!",
+"seconds": 2.73,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.67,
+"ee"
+],
+[
+0.76,
+"mid"
+],
+[
+1.06,
+"smile"
+],
+[
+1.15,
+"oo"
+],
+[
+1.32,
+"mid"
+],
+[
+1.53,
+"smile"
+],
+[
+1.59,
+"oh"
+],
+[
+1.72,
+"mid"
+],
+[
+1.8,
+"ee"
+],
+[
+1.89,
+"oh"
+],
+[
+2.04,
+"ee"
+],
+[
+2.36,
+"smile"
+]
+]
+},
+"dress_bought": {
+"src": "dress_bought.mp3",
+"text": "Ooh, new clothes!",
+"seconds": 2.22,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"oo"
+],
+[
+1.06,
+"ee"
+],
+[
+1.16,
+"mid"
+],
+[
+1.27,
+"oh"
+],
+[
+1.44,
+"oo"
+],
+[
+1.57,
+"ee"
+],
+[
+1.8,
+"smile"
+]
+]
+},
+"hello": {
+"src": "hello.mp3",
+"text": "Hi! I'm Pom!",
+"seconds": 2.13,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"open"
+],
+[
+0.57,
+"ee"
+],
+[
+0.7,
+"smile"
+],
+[
+0.99,
+"open"
+],
+[
+1.09,
+"ee"
+],
+[
+1.19,
+"smile"
+],
+[
+1.38,
+"oh"
+],
+[
+1.65,
+"smile"
+]
+]
+},
+"go": {
+"src": "go.mp3",
+"text": "Let's play!",
+"seconds": 1.33,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"mid"
+],
+[
+0.41,
+"ee"
+],
+[
+0.54,
+"smile"
+],
+[
+0.61,
+"mid"
+],
+[
+0.84,
+"ee"
+],
+[
+0.95,
+"smile"
+]
+]
+}
+}

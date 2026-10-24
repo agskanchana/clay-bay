@@ -1,0 +1,3453 @@
+{
+"hi": {
+"src": "hi.mp3",
+"text": "Hello, little one! I'm Mumba.",
+"seconds": 2.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.55,
+"mid"
+],
+[
+0.68,
+"oh"
+],
+[
+0.8,
+"smile"
+],
+[
+0.88,
+"ee"
+],
+[
+1.01,
+"mid"
+],
+[
+1.15,
+"open"
+],
+[
+1.36,
+"smile"
+],
+[
+1.83,
+"open"
+],
+[
+1.95,
+"ee"
+],
+[
+2.04,
+"smile"
+],
+[
+2.15,
+"open"
+],
+[
+2.29,
+"smile"
+],
+[
+2.4,
+"mid"
+],
+[
+2.54,
+"smile"
+]
+]
+},
+"cm_intro": {
+"src": "cm_intro.mp3",
+"text": "Critters come to my workshop for new friends. Let's make one!",
+"seconds": 4.07,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.53,
+"ee"
+],
+[
+0.64,
+"mid"
+],
+[
+0.76,
+"ee"
+],
+[
+0.89,
+"open"
+],
+[
+1.03,
+"smile"
+],
+[
+1.09,
+"oo"
+],
+[
+1.2,
+"smile"
+],
+[
+1.28,
+"mid"
+],
+[
+1.52,
+"oo"
+],
+[
+1.64,
+"open"
+],
+[
+1.77,
+"smile"
+],
+[
+1.92,
+"oh"
+],
+[
+2.02,
+"oo"
+],
+[
+2.31,
+"mid"
+],
+[
+2.54,
+"ee"
+],
+[
+2.71,
+"smile"
+],
+[
+3.12,
+"mid"
+],
+[
+3.27,
+"ee"
+],
+[
+3.36,
+"smile"
+],
+[
+3.42,
+"ee"
+],
+[
+3.6,
+"open"
+],
+[
+3.69,
+"smile"
+]
+]
+},
+"cm_poke": {
+"src": "cm_poke.mp3",
+"text": "Poke the clay to put in an eye!",
+"seconds": 2.83,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.92,
+"ee"
+],
+[
+1.05,
+"mid"
+],
+[
+1.15,
+"ee"
+],
+[
+1.22,
+"mid"
+],
+[
+1.46,
+"ee"
+],
+[
+1.58,
+"smile"
+],
+[
+1.74,
+"oo"
+],
+[
+1.82,
+"smile"
+],
+[
+1.89,
+"oo"
+],
+[
+2.0,
+"ee"
+],
+[
+2.17,
+"open"
+],
+[
+2.36,
+"smile"
+]
+]
+},
+"cm_pull": {
+"src": "cm_pull.mp3",
+"text": "Pull a leg out of the clay!",
+"seconds": 2.21,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.5,
+"oo"
+],
+[
+0.65,
+"mid"
+],
+[
+1.02,
+"ee"
+],
+[
+1.11,
+"open"
+],
+[
+1.21,
+"oo"
+],
+[
+1.32,
+"mid"
+],
+[
+1.78,
+"ee"
+],
+[
+1.88,
+"smile"
+]
+]
+},
+"cm_pinch": {
+"src": "cm_pinch.mp3",
+"text": "Pinch the top to make a horn!",
+"seconds": 2.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"ee"
+],
+[
+0.79,
+"mid"
+],
+[
+0.9,
+"open"
+],
+[
+1.23,
+"smile"
+],
+[
+1.46,
+"oo"
+],
+[
+1.58,
+"smile"
+],
+[
+1.65,
+"ee"
+],
+[
+1.77,
+"oh"
+],
+[
+2.17,
+"smile"
+]
+]
+},
+"cm_press": {
+"src": "cm_press.mp3",
+"text": "Tap the pink spot, then press spots on!",
+"seconds": 3.61,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"open"
+],
+[
+0.7,
+"smile"
+],
+[
+0.83,
+"mid"
+],
+[
+0.91,
+"smile"
+],
+[
+0.97,
+"ee"
+],
+[
+1.22,
+"smile"
+],
+[
+1.28,
+"open"
+],
+[
+1.44,
+"smile"
+],
+[
+1.81,
+"mid"
+],
+[
+2.02,
+"smile"
+],
+[
+2.08,
+"mid"
+],
+[
+2.34,
+"ee"
+],
+[
+2.44,
+"smile"
+],
+[
+2.61,
+"ee"
+],
+[
+2.69,
+"smile"
+],
+[
+2.75,
+"open"
+],
+[
+2.9,
+"ee"
+],
+[
+3.04,
+"open"
+],
+[
+3.21,
+"smile"
+]
+]
+},
+"cm_tapoff": {
+"src": "cm_tapoff.mp3",
+"text": "Tap a part to take it off again.",
+"seconds": 2.49,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"open"
+],
+[
+0.6,
+"smile"
+],
+[
+0.66,
+"mid"
+],
+[
+0.74,
+"smile"
+],
+[
+0.8,
+"open"
+],
+[
+0.9,
+"smile"
+],
+[
+1.08,
+"oo"
+],
+[
+1.31,
+"mid"
+],
+[
+1.41,
+"ee"
+],
+[
+1.62,
+"oh"
+],
+[
+1.77,
+"mid"
+],
+[
+2.04,
+"smile"
+]
+]
+},
+"cm_oven": {
+"src": "cm_oven.mp3",
+"text": "Into the oven it goes!",
+"seconds": 2.49,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"ee"
+],
+[
+0.73,
+"oo"
+],
+[
+1.0,
+"mid"
+],
+[
+1.18,
+"smile"
+],
+[
+1.31,
+"mid"
+],
+[
+1.53,
+"ee"
+],
+[
+1.71,
+"oh"
+],
+[
+1.89,
+"oo"
+],
+[
+2.02,
+"ee"
+],
+[
+2.15,
+"smile"
+]
+]
+},
+"cm_alive": {
+"src": "cm_alive.mp3",
+"text": "It's alive!",
+"seconds": 2.22,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"ee"
+],
+[
+0.82,
+"mid"
+],
+[
+1.26,
+"open"
+],
+[
+1.45,
+"ee"
+],
+[
+1.83,
+"smile"
+]
+]
+},
+"cm_check": {
+"src": "cm_check.mp3",
+"text": "Let's check it against the card.",
+"seconds": 2.23,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.54,
+"mid"
+],
+[
+0.73,
+"ee"
+],
+[
+0.84,
+"mid"
+],
+[
+1.01,
+"ee"
+],
+[
+1.15,
+"mid"
+],
+[
+1.34,
+"ee"
+],
+[
+1.55,
+"open"
+],
+[
+1.73,
+"smile"
+]
+]
+},
+"cm_eyes": {
+"src": "cm_eyes.mp3",
+"text": "Eyes!",
+"seconds": 1.3,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"open"
+],
+[
+0.59,
+"ee"
+],
+[
+0.98,
+"smile"
+]
+]
+},
+"cm_legs": {
+"src": "cm_legs.mp3",
+"text": "Legs!",
+"seconds": 1.5,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.54,
+"mid"
+],
+[
+0.96,
+"ee"
+],
+[
+1.18,
+"smile"
+]
+]
+},
+"cm_horns": {
+"src": "cm_horns.mp3",
+"text": "Horns!",
+"seconds": 1.51,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.59,
+"oh"
+],
+[
+0.91,
+"mid"
+],
+[
+1.0,
+"ee"
+],
+[
+1.2,
+"smile"
+]
+]
+},
+"cm_spots": {
+"src": "cm_spots.mp3",
+"text": "Spots!",
+"seconds": 1.49,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.55,
+"ee"
+],
+[
+0.67,
+"smile"
+],
+[
+0.76,
+"open"
+],
+[
+1.0,
+"ee"
+],
+[
+1.2,
+"smile"
+]
+]
+},
+"cm_total": {
+"src": "cm_total.mp3",
+"text": "How many parts in all?",
+"seconds": 2.12,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.54,
+"open"
+],
+[
+0.77,
+"smile"
+],
+[
+0.83,
+"mid"
+],
+[
+0.91,
+"ee"
+],
+[
+1.05,
+"smile"
+],
+[
+1.11,
+"open"
+],
+[
+1.25,
+"ee"
+],
+[
+1.53,
+"oh"
+],
+[
+1.67,
+"smile"
+]
+]
+},
+"cm_change": {
+"src": "cm_change.mp3",
+"text": "Let's change it a little. Back on the turntable!",
+"seconds": 3.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.46,
+"mid"
+],
+[
+0.65,
+"ee"
+],
+[
+0.81,
+"mid"
+],
+[
+0.9,
+"ee"
+],
+[
+1.35,
+"mid"
+],
+[
+1.51,
+"smile"
+],
+[
+2.27,
+"open"
+],
+[
+2.56,
+"mid"
+],
+[
+2.98,
+"smile"
+],
+[
+3.04,
+"mid"
+],
+[
+3.25,
+"smile"
+]
+]
+},
+"cm_tip_more": {
+"src": "cm_tip_more.mp3",
+"text": "Count the eyes first. Then one more!",
+"seconds": 3.35,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"open"
+],
+[
+0.71,
+"ee"
+],
+[
+0.94,
+"mid"
+],
+[
+1.05,
+"open"
+],
+[
+1.2,
+"ee"
+],
+[
+1.53,
+"mid"
+],
+[
+1.72,
+"ee"
+],
+[
+1.86,
+"smile"
+],
+[
+2.34,
+"mid"
+],
+[
+2.5,
+"open"
+],
+[
+2.79,
+"smile"
+],
+[
+2.84,
+"oh"
+],
+[
+2.96,
+"smile"
+]
+]
+},
+"cm_tip_fewer": {
+"src": "cm_tip_fewer.mp3",
+"text": "Count the legs first. Then take some away!",
+"seconds": 3.6,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"open"
+],
+[
+0.72,
+"oo"
+],
+[
+0.8,
+"ee"
+],
+[
+1.01,
+"mid"
+],
+[
+1.34,
+"ee"
+],
+[
+1.56,
+"mid"
+],
+[
+1.75,
+"ee"
+],
+[
+1.9,
+"smile"
+],
+[
+2.31,
+"mid"
+],
+[
+2.46,
+"ee"
+],
+[
+2.65,
+"mid"
+],
+[
+2.73,
+"ee"
+],
+[
+2.9,
+"mid"
+],
+[
+2.98,
+"smile"
+],
+[
+3.04,
+"mid"
+],
+[
+3.23,
+"smile"
+]
+]
+},
+"cm_tip_double": {
+"src": "cm_tip_double.mp3",
+"text": "Double means the same again!",
+"seconds": 2.74,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.56,
+"mid"
+],
+[
+0.7,
+"smile"
+],
+[
+0.77,
+"mid"
+],
+[
+0.96,
+"smile"
+],
+[
+1.02,
+"ee"
+],
+[
+1.35,
+"mid"
+],
+[
+1.45,
+"ee"
+],
+[
+1.57,
+"mid"
+],
+[
+1.72,
+"ee"
+],
+[
+1.84,
+"smile"
+],
+[
+2.02,
+"mid"
+],
+[
+2.25,
+"ee"
+],
+[
+2.4,
+"smile"
+]
+]
+},
+"cm_tip_count": {
+"src": "cm_tip_count.mp3",
+"text": "Let's count them together.",
+"seconds": 1.92,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"mid"
+],
+[
+0.58,
+"ee"
+],
+[
+1.0,
+"mid"
+],
+[
+1.09,
+"smile"
+],
+[
+1.16,
+"mid"
+],
+[
+1.56,
+"smile"
+]
+]
+},
+"cm_open": {
+"src": "cm_open.mp3",
+"text": "Your own way! Any parts you like.",
+"seconds": 2.85,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.5,
+"oh"
+],
+[
+0.96,
+"mid"
+],
+[
+1.1,
+"smile"
+],
+[
+1.66,
+"mid"
+],
+[
+1.76,
+"ee"
+],
+[
+1.92,
+"smile"
+],
+[
+1.98,
+"open"
+],
+[
+2.06,
+"ee"
+],
+[
+2.29,
+"open"
+],
+[
+2.44,
+"ee"
+],
+[
+2.56,
+"smile"
+]
+]
+},
+"cm_lovely": {
+"src": "cm_lovely.mp3",
+"text": "Lovely!",
+"seconds": 1.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.46,
+"mid"
+],
+[
+0.76,
+"ee"
+],
+[
+0.97,
+"smile"
+]
+]
+},
+"cm_wonderful": {
+"src": "cm_wonderful.mp3",
+"text": "Wonderful work!",
+"seconds": 1.93,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.6,
+"oo"
+],
+[
+0.76,
+"mid"
+],
+[
+1.59,
+"smile"
+]
+]
+},
+"cm_end": {
+"src": "cm_end.mp3",
+"text": "Five new friends for your Critter Garden!",
+"seconds": 3.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.89,
+"ee"
+],
+[
+0.98,
+"open"
+],
+[
+1.1,
+"ee"
+],
+[
+1.36,
+"oo"
+],
+[
+1.7,
+"mid"
+],
+[
+1.92,
+"ee"
+],
+[
+2.12,
+"oh"
+],
+[
+2.33,
+"mid"
+],
+[
+2.44,
+"ee"
+],
+[
+2.54,
+"mid"
+],
+[
+2.62,
+"smile"
+],
+[
+2.69,
+"open"
+],
+[
+2.81,
+"mid"
+],
+[
+3.0,
+"ee"
+],
+[
+3.13,
+"smile"
+]
+]
+},
+"n1": {
+"src": "n1.mp3",
+"text": "One!",
+"seconds": 1.59,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.81,
+"open"
+],
+[
+1.06,
+"ee"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"n2": {
+"src": "n2.mp3",
+"text": "Two!",
+"seconds": 1.61,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.72,
+"ee"
+],
+[
+0.83,
+"oo"
+],
+[
+1.23,
+"smile"
+]
+]
+},
+"n3": {
+"src": "n3.mp3",
+"text": "Three!",
+"seconds": 1.62,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.9,
+"ee"
+],
+[
+1.23,
+"smile"
+]
+]
+},
+"n4": {
+"src": "n4.mp3",
+"text": "Four!",
+"seconds": 1.29,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"ee"
+],
+[
+0.61,
+"oh"
+],
+[
+0.85,
+"mid"
+],
+[
+0.94,
+"smile"
+]
+]
+},
+"n5": {
+"src": "n5.mp3",
+"text": "Five!",
+"seconds": 1.6,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.65,
+"ee"
+],
+[
+0.77,
+"open"
+],
+[
+0.94,
+"ee"
+],
+[
+1.2,
+"smile"
+]
+]
+},
+"n6": {
+"src": "n6.mp3",
+"text": "Six!",
+"seconds": 1.58,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.7,
+"ee"
+],
+[
+1.3,
+"smile"
+]
+]
+},
+"n7": {
+"src": "n7.mp3",
+"text": "Seven!",
+"seconds": 1.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.48,
+"ee"
+],
+[
+0.59,
+"mid"
+],
+[
+0.86,
+"smile"
+]
+]
+},
+"n8": {
+"src": "n8.mp3",
+"text": "Eight!",
+"seconds": 1.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.66,
+"ee"
+],
+[
+0.85,
+"smile"
+]
+]
+},
+"n9": {
+"src": "n9.mp3",
+"text": "Nine!",
+"seconds": 1.54,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"ee"
+],
+[
+0.74,
+"open"
+],
+[
+0.9,
+"ee"
+],
+[
+1.12,
+"smile"
+]
+]
+},
+"n10": {
+"src": "n10.mp3",
+"text": "Ten!",
+"seconds": 1.33,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.68,
+"mid"
+],
+[
+0.89,
+"ee"
+],
+[
+0.96,
+"smile"
+]
+]
+},
+"n11": {
+"src": "n11.mp3",
+"text": "Eleven!",
+"seconds": 1.14,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"ee"
+],
+[
+0.42,
+"mid"
+],
+[
+0.74,
+"ee"
+],
+[
+0.83,
+"smile"
+]
+]
+},
+"n12": {
+"src": "n12.mp3",
+"text": "Twelve!",
+"seconds": 1.37,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.55,
+"mid"
+],
+[
+0.78,
+"smile"
+]
+]
+},
+"n13": {
+"src": "n13.mp3",
+"text": "Thirteen!",
+"seconds": 1.69,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"ee"
+],
+[
+0.66,
+"mid"
+],
+[
+0.89,
+"ee"
+],
+[
+1.24,
+"smile"
+]
+]
+},
+"n14": {
+"src": "n14.mp3",
+"text": "Fourteen!",
+"seconds": 1.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.79,
+"ee"
+],
+[
+0.88,
+"oh"
+],
+[
+1.07,
+"mid"
+],
+[
+1.16,
+"ee"
+],
+[
+1.48,
+"smile"
+]
+]
+},
+"n15": {
+"src": "n15.mp3",
+"text": "Fifteen!",
+"seconds": 1.87,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.68,
+"ee"
+],
+[
+1.4,
+"smile"
+]
+]
+},
+"n16": {
+"src": "n16.mp3",
+"text": "Sixteen!",
+"seconds": 1.56,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.42,
+"ee"
+],
+[
+1.11,
+"smile"
+]
+]
+},
+"n17": {
+"src": "n17.mp3",
+"text": "Seventeen!",
+"seconds": 1.78,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.55,
+"ee"
+],
+[
+0.65,
+"mid"
+],
+[
+1.07,
+"ee"
+],
+[
+1.45,
+"smile"
+]
+]
+},
+"n18": {
+"src": "n18.mp3",
+"text": "Eighteen!",
+"seconds": 1.55,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.59,
+"ee"
+],
+[
+1.24,
+"smile"
+]
+]
+},
+"n19": {
+"src": "n19.mp3",
+"text": "Nineteen!",
+"seconds": 1.63,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"ee"
+],
+[
+0.56,
+"open"
+],
+[
+0.68,
+"ee"
+],
+[
+1.23,
+"smile"
+]
+]
+},
+"n20": {
+"src": "n20.mp3",
+"text": "Twenty!",
+"seconds": 1.46,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.67,
+"mid"
+],
+[
+0.85,
+"ee"
+],
+[
+1.15,
+"smile"
+]
+]
+},
+"in_all6": {
+"src": "in_all6.mp3",
+"text": "Six parts in all!",
+"seconds": 2.05,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.26,
+"ee"
+],
+[
+0.72,
+"smile"
+],
+[
+0.78,
+"open"
+],
+[
+0.96,
+"ee"
+],
+[
+1.35,
+"oh"
+],
+[
+1.55,
+"smile"
+]
+]
+},
+"in_all9": {
+"src": "in_all9.mp3",
+"text": "Nine parts in all!",
+"seconds": 2.4,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"ee"
+],
+[
+0.68,
+"open"
+],
+[
+0.84,
+"ee"
+],
+[
+1.14,
+"smile"
+],
+[
+1.2,
+"open"
+],
+[
+1.34,
+"ee"
+],
+[
+1.71,
+"oh"
+],
+[
+1.94,
+"mid"
+],
+[
+2.02,
+"smile"
+]
+]
+},
+"in_all10": {
+"src": "in_all10.mp3",
+"text": "Ten parts in all!",
+"seconds": 2.37,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.73,
+"mid"
+],
+[
+0.98,
+"ee"
+],
+[
+1.08,
+"smile"
+],
+[
+1.15,
+"open"
+],
+[
+1.33,
+"mid"
+],
+[
+1.42,
+"ee"
+],
+[
+1.8,
+"oh"
+],
+[
+1.98,
+"smile"
+]
+]
+},
+"in_all13": {
+"src": "in_all13.mp3",
+"text": "Thirteen parts in all!",
+"seconds": 2.28,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.6,
+"ee"
+],
+[
+0.68,
+"mid"
+],
+[
+0.86,
+"ee"
+],
+[
+1.18,
+"smile"
+],
+[
+1.23,
+"open"
+],
+[
+1.39,
+"ee"
+],
+[
+1.69,
+"oh"
+],
+[
+1.85,
+"smile"
+]
+]
+},
+"in_all15": {
+"src": "in_all15.mp3",
+"text": "Fifteen parts in all!",
+"seconds": 2.13,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.62,
+"ee"
+],
+[
+1.1,
+"smile"
+],
+[
+1.17,
+"open"
+],
+[
+1.3,
+"ee"
+],
+[
+1.56,
+"oh"
+],
+[
+1.71,
+"smile"
+]
+]
+},
+"h_intro": {
+"src": "h_intro.mp3",
+"text": "A new egg washed up! Answer my questions, and every answer cracks the shell a little.",
+"seconds": 7.12,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.88,
+"mid"
+],
+[
+0.99,
+"ee"
+],
+[
+1.07,
+"oo"
+],
+[
+1.35,
+"mid"
+],
+[
+1.6,
+"ee"
+],
+[
+1.69,
+"open"
+],
+[
+1.94,
+"oo"
+],
+[
+2.02,
+"open"
+],
+[
+2.27,
+"smile"
+],
+[
+2.92,
+"open"
+],
+[
+3.06,
+"ee"
+],
+[
+3.17,
+"mid"
+],
+[
+3.31,
+"smile"
+],
+[
+3.36,
+"ee"
+],
+[
+3.52,
+"mid"
+],
+[
+3.71,
+"ee"
+],
+[
+3.81,
+"oo"
+],
+[
+3.9,
+"mid"
+],
+[
+4.07,
+"ee"
+],
+[
+4.17,
+"smile"
+],
+[
+4.26,
+"mid"
+],
+[
+4.35,
+"ee"
+],
+[
+4.5,
+"mid"
+],
+[
+4.78,
+"ee"
+],
+[
+4.92,
+"smile"
+],
+[
+4.97,
+"open"
+],
+[
+5.09,
+"ee"
+],
+[
+5.17,
+"mid"
+],
+[
+5.32,
+"smile"
+],
+[
+5.42,
+"open"
+],
+[
+5.64,
+"ee"
+],
+[
+5.92,
+"oo"
+],
+[
+6.01,
+"mid"
+],
+[
+6.43,
+"ee"
+],
+[
+6.55,
+"mid"
+],
+[
+6.68,
+"smile"
+]
+]
+},
+"h_stones": {
+"src": "h_stones.mp3",
+"text": "Every stop you finish keeps the egg warm.",
+"seconds": 4.24,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.72,
+"mid"
+],
+[
+1.06,
+"ee"
+],
+[
+1.32,
+"open"
+],
+[
+1.48,
+"smile"
+],
+[
+1.62,
+"oo"
+],
+[
+1.85,
+"ee"
+],
+[
+2.31,
+"smile"
+],
+[
+2.48,
+"ee"
+],
+[
+2.69,
+"smile"
+],
+[
+2.75,
+"ee"
+],
+[
+2.92,
+"mid"
+],
+[
+3.44,
+"oh"
+],
+[
+3.65,
+"mid"
+],
+[
+3.73,
+"smile"
+]
+]
+},
+"h_count": {
+"src": "h_count.mp3",
+"text": "How many Peeps?",
+"seconds": 1.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"open"
+],
+[
+0.8,
+"smile"
+],
+[
+0.86,
+"ee"
+],
+[
+1.06,
+"smile"
+],
+[
+1.12,
+"ee"
+],
+[
+1.32,
+"smile"
+],
+[
+1.39,
+"ee"
+],
+[
+1.48,
+"smile"
+]
+]
+},
+"h_sum": {
+"src": "h_sum.mp3",
+"text": "What is the answer?",
+"seconds": 1.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"open"
+],
+[
+0.52,
+"ee"
+],
+[
+0.93,
+"mid"
+],
+[
+1.04,
+"open"
+],
+[
+1.21,
+"ee"
+],
+[
+1.29,
+"mid"
+],
+[
+1.46,
+"smile"
+]
+]
+},
+"h_more": {
+"src": "h_more.mp3",
+"text": "What is one more?",
+"seconds": 1.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.53,
+"open"
+],
+[
+0.68,
+"ee"
+],
+[
+0.92,
+"open"
+],
+[
+1.18,
+"smile"
+],
+[
+1.24,
+"oh"
+],
+[
+1.43,
+"smile"
+]
+]
+},
+"h_fewer": {
+"src": "h_fewer.mp3",
+"text": "What is one fewer?",
+"seconds": 2.11,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"open"
+],
+[
+0.55,
+"ee"
+],
+[
+0.76,
+"oo"
+],
+[
+0.83,
+"open"
+],
+[
+1.07,
+"ee"
+],
+[
+1.3,
+"oo"
+],
+[
+1.48,
+"mid"
+],
+[
+1.67,
+"smile"
+]
+]
+},
+"h_double": {
+"src": "h_double.mp3",
+"text": "What is double?",
+"seconds": 2.15,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.89,
+"open"
+],
+[
+1.01,
+"ee"
+],
+[
+1.46,
+"mid"
+],
+[
+1.55,
+"smile"
+],
+[
+1.61,
+"mid"
+],
+[
+1.74,
+"smile"
+]
+]
+},
+"h_half_of": {
+"src": "h_half_of.mp3",
+"text": "What is half?",
+"seconds": 1.74,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.45,
+"open"
+],
+[
+0.61,
+"ee"
+],
+[
+0.84,
+"open"
+],
+[
+1.07,
+"ee"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"h_pie_halves": {
+"src": "h_pie_halves.mp3",
+"text": "Which pie is cut into halves?",
+"seconds": 2.75,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.72,
+"ee"
+],
+[
+0.91,
+"oo"
+],
+[
+0.99,
+"smile"
+],
+[
+1.08,
+"open"
+],
+[
+1.25,
+"ee"
+],
+[
+1.6,
+"open"
+],
+[
+1.73,
+"ee"
+],
+[
+1.91,
+"oo"
+],
+[
+1.98,
+"open"
+],
+[
+2.25,
+"ee"
+],
+[
+2.4,
+"smile"
+]
+]
+},
+"h_pie_thirds": {
+"src": "h_pie_thirds.mp3",
+"text": "Which pie is cut into thirds?",
+"seconds": 2.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"ee"
+],
+[
+0.67,
+"oo"
+],
+[
+0.81,
+"smile"
+],
+[
+0.9,
+"open"
+],
+[
+1.07,
+"ee"
+],
+[
+1.44,
+"open"
+],
+[
+1.58,
+"ee"
+],
+[
+1.72,
+"oo"
+],
+[
+1.8,
+"smile"
+],
+[
+1.86,
+"ee"
+],
+[
+1.96,
+"mid"
+],
+[
+2.21,
+"ee"
+],
+[
+2.36,
+"smile"
+]
+]
+},
+"h_pie_quarters": {
+"src": "h_pie_quarters.mp3",
+"text": "Which pie is cut into quarters?",
+"seconds": 2.52,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.56,
+"ee"
+],
+[
+0.78,
+"smile"
+],
+[
+0.86,
+"open"
+],
+[
+1.02,
+"ee"
+],
+[
+1.36,
+"open"
+],
+[
+1.49,
+"ee"
+],
+[
+1.62,
+"oo"
+],
+[
+1.77,
+"oh"
+],
+[
+1.92,
+"mid"
+],
+[
+2.15,
+"smile"
+]
+]
+},
+"h_try": {
+"src": "h_try.mp3",
+"text": "Have another look.",
+"seconds": 1.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"open"
+],
+[
+0.58,
+"mid"
+],
+[
+1.0,
+"oo"
+],
+[
+1.2,
+"smile"
+]
+]
+},
+"h_wobble": {
+"src": "h_wobble.mp3",
+"text": "It's wobbling!",
+"seconds": 1.82,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"ee"
+],
+[
+0.85,
+"open"
+],
+[
+0.97,
+"smile"
+],
+[
+1.03,
+"mid"
+],
+[
+1.21,
+"ee"
+],
+[
+1.4,
+"smile"
+]
+]
+},
+"h_hatched": {
+"src": "h_hatched.mp3",
+"text": "It hatched! Hello, little one!",
+"seconds": 4.27,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+1.26,
+"ee"
+],
+[
+1.45,
+"open"
+],
+[
+1.95,
+"oo"
+],
+[
+2.09,
+"ee"
+],
+[
+2.19,
+"smile"
+],
+[
+2.75,
+"mid"
+],
+[
+2.94,
+"oh"
+],
+[
+3.04,
+"oo"
+],
+[
+3.11,
+"smile"
+],
+[
+3.29,
+"ee"
+],
+[
+3.38,
+"mid"
+],
+[
+3.54,
+"oo"
+],
+[
+3.63,
+"open"
+],
+[
+3.9,
+"ee"
+],
+[
+4.01,
+"smile"
+]
+]
+},
+"h_name": {
+"src": "h_name.mp3",
+"text": "What shall we call it?",
+"seconds": 1.89,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.51,
+"open"
+],
+[
+0.83,
+"ee"
+],
+[
+1.04,
+"oh"
+],
+[
+1.26,
+"ee"
+],
+[
+1.35,
+"smile"
+]
+]
+},
+"h_book": {
+"src": "h_book.mp3",
+"text": "Into the Nest Book it goes, and off to the Critter Garden!",
+"seconds": 4.4,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.61,
+"ee"
+],
+[
+0.9,
+"oo"
+],
+[
+1.05,
+"mid"
+],
+[
+1.33,
+"ee"
+],
+[
+1.47,
+"smile"
+],
+[
+1.53,
+"oo"
+],
+[
+1.67,
+"ee"
+],
+[
+1.88,
+"oh"
+],
+[
+2.0,
+"oo"
+],
+[
+2.11,
+"ee"
+],
+[
+2.21,
+"smile"
+],
+[
+2.5,
+"mid"
+],
+[
+2.62,
+"ee"
+],
+[
+2.79,
+"oh"
+],
+[
+2.94,
+"smile"
+],
+[
+3.19,
+"oo"
+],
+[
+3.33,
+"mid"
+],
+[
+3.5,
+"ee"
+],
+[
+3.59,
+"mid"
+],
+[
+3.77,
+"open"
+],
+[
+3.88,
+"mid"
+],
+[
+4.08,
+"smile"
+]
+]
+},
+"hi_blip": {
+"src": "hi_blip.mp3",
+"text": "Hello, Blip!",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.64,
+"smile"
+],
+[
+1.02,
+"ee"
+],
+[
+1.21,
+"smile"
+]
+]
+},
+"hi_pip": {
+"src": "hi_pip.mp3",
+"text": "Hello, Pip!",
+"seconds": 1.73,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.66,
+"mid"
+],
+[
+1.01,
+"smile"
+],
+[
+1.07,
+"ee"
+],
+[
+1.21,
+"smile"
+]
+]
+},
+"hi_zuzu": {
+"src": "hi_zuzu.mp3",
+"text": "Hello, Zuzu!",
+"seconds": 1.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.81,
+"mid"
+],
+[
+1.02,
+"oo"
+],
+[
+1.3,
+"ee"
+],
+[
+1.4,
+"oo"
+],
+[
+1.52,
+"smile"
+]
+]
+},
+"hi_tiko": {
+"src": "hi_tiko.mp3",
+"text": "Hello, Tiko!",
+"seconds": 1.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"mid"
+],
+[
+1.02,
+"ee"
+],
+[
+1.21,
+"oh"
+],
+[
+1.4,
+"smile"
+]
+]
+},
+"hi_mello": {
+"src": "hi_mello.mp3",
+"text": "Hello, Mello!",
+"seconds": 1.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.61,
+"mid"
+],
+[
+0.85,
+"oh"
+],
+[
+0.97,
+"smile"
+],
+[
+1.03,
+"mid"
+],
+[
+1.15,
+"oh"
+],
+[
+1.23,
+"smile"
+]
+]
+},
+"hi_wobble": {
+"src": "hi_wobble.mp3",
+"text": "Hello, Wobble!",
+"seconds": 2.04,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"mid"
+],
+[
+0.83,
+"oh"
+],
+[
+0.94,
+"oo"
+],
+[
+1.03,
+"smile"
+],
+[
+1.11,
+"open"
+],
+[
+1.34,
+"smile"
+],
+[
+1.41,
+"mid"
+],
+[
+1.65,
+"smile"
+]
+]
+},
+"hi_nubs": {
+"src": "hi_nubs.mp3",
+"text": "Hello, Nubs!",
+"seconds": 1.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.54,
+"mid"
+],
+[
+0.73,
+"oh"
+],
+[
+0.83,
+"oo"
+],
+[
+0.91,
+"smile"
+],
+[
+1.02,
+"ee"
+],
+[
+1.12,
+"open"
+],
+[
+1.38,
+"smile"
+],
+[
+1.46,
+"ee"
+],
+[
+1.55,
+"smile"
+]
+]
+},
+"hi_sprout": {
+"src": "hi_sprout.mp3",
+"text": "Hello, Sprout!",
+"seconds": 1.84,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.27,
+"mid"
+],
+[
+0.48,
+"oh"
+],
+[
+0.57,
+"oo"
+],
+[
+0.65,
+"smile"
+],
+[
+0.72,
+"ee"
+],
+[
+0.89,
+"smile"
+],
+[
+0.98,
+"mid"
+],
+[
+1.11,
+"open"
+],
+[
+1.29,
+"oo"
+],
+[
+1.44,
+"ee"
+],
+[
+1.52,
+"smile"
+]
+]
+},
+"hi_dot": {
+"src": "hi_dot.mp3",
+"text": "Hello, Dot!",
+"seconds": 1.92,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.69,
+"mid"
+],
+[
+0.8,
+"oh"
+],
+[
+0.9,
+"smile"
+],
+[
+1.11,
+"ee"
+],
+[
+1.2,
+"open"
+],
+[
+1.46,
+"ee"
+],
+[
+1.54,
+"smile"
+]
+]
+},
+"hi_puddle": {
+"src": "hi_puddle.mp3",
+"text": "Hello, Puddle!",
+"seconds": 1.82,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"mid"
+],
+[
+0.7,
+"oh"
+],
+[
+0.81,
+"oo"
+],
+[
+0.9,
+"smile"
+],
+[
+1.09,
+"mid"
+],
+[
+1.52,
+"smile"
+]
+]
+},
+"hi_bobo": {
+"src": "hi_bobo.mp3",
+"text": "Hello, Bobo!",
+"seconds": 1.96,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.38,
+"mid"
+],
+[
+0.74,
+"oh"
+],
+[
+0.86,
+"oo"
+],
+[
+0.95,
+"oh"
+],
+[
+1.08,
+"oo"
+],
+[
+1.19,
+"oh"
+],
+[
+1.31,
+"oo"
+],
+[
+1.43,
+"smile"
+]
+]
+},
+"hi_fizzle": {
+"src": "hi_fizzle.mp3",
+"text": "Hello, Fizzle!",
+"seconds": 1.39,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.64,
+"smile"
+],
+[
+0.82,
+"ee"
+],
+[
+0.98,
+"mid"
+],
+[
+1.15,
+"smile"
+]
+]
+},
+"cm_wake": {
+"src": "cm_wake.mp3",
+"text": "Pop it in the oven to wake it up!",
+"seconds": 2.51,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.53,
+"open"
+],
+[
+0.76,
+"smile"
+],
+[
+0.81,
+"ee"
+],
+[
+1.03,
+"mid"
+],
+[
+1.43,
+"ee"
+],
+[
+1.5,
+"oo"
+],
+[
+1.69,
+"mid"
+],
+[
+1.78,
+"ee"
+],
+[
+2.04,
+"smile"
+]
+]
+},
+"garden_hi": {
+"src": "garden_hi.mp3",
+"text": "Welcome to the Critter Garden! All your critters live here.",
+"seconds": 4.33,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.65,
+"mid"
+],
+[
+1.1,
+"smile"
+],
+[
+1.18,
+"oo"
+],
+[
+1.35,
+"mid"
+],
+[
+1.51,
+"ee"
+],
+[
+1.6,
+"mid"
+],
+[
+1.7,
+"smile"
+],
+[
+1.75,
+"open"
+],
+[
+1.91,
+"mid"
+],
+[
+2.11,
+"smile"
+],
+[
+2.67,
+"oh"
+],
+[
+3.08,
+"mid"
+],
+[
+3.21,
+"ee"
+],
+[
+3.33,
+"mid"
+],
+[
+3.46,
+"ee"
+],
+[
+3.62,
+"open"
+],
+[
+3.71,
+"ee"
+],
+[
+4.07,
+"smile"
+]
+]
+},
+"garden_empty": {
+"src": "garden_empty.mp3",
+"text": "Make critters in my workshop, and they will come and live here!",
+"seconds": 4.21,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"ee"
+],
+[
+1.0,
+"mid"
+],
+[
+1.17,
+"ee"
+],
+[
+1.39,
+"smile"
+],
+[
+1.5,
+"mid"
+],
+[
+1.88,
+"open"
+],
+[
+2.04,
+"smile"
+],
+[
+2.31,
+"mid"
+],
+[
+2.42,
+"ee"
+],
+[
+2.85,
+"open"
+],
+[
+3.06,
+"smile"
+],
+[
+3.12,
+"mid"
+],
+[
+3.23,
+"open"
+],
+[
+3.44,
+"ee"
+],
+[
+3.79,
+"mid"
+],
+[
+3.88,
+"smile"
+]
+]
+},
+"hello": {
+"src": "hello.mp3",
+"text": "Hello! I'm Mumba!",
+"seconds": 2.0,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.24,
+"mid"
+],
+[
+0.5,
+"oh"
+],
+[
+0.57,
+"smile"
+],
+[
+1.02,
+"open"
+],
+[
+1.1,
+"smile"
+],
+[
+1.28,
+"open"
+],
+[
+1.43,
+"smile"
+],
+[
+1.52,
+"mid"
+],
+[
+1.67,
+"smile"
+]
+]
+}
+}
