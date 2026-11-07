@@ -3582,5 +3582,6533 @@
 "smile"
 ]
 ]
+},
+"pr_hi": {
+"src": "pr_hi.mp3",
+"text": "Let's practise!",
+"seconds": 1.52,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"mid"
+],
+[
+0.49,
+"smile"
+],
+[
+0.68,
+"open"
+],
+[
+0.8,
+"ee"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"pr_tip": {
+"src": "pr_tip.mp3",
+"text": "Hmm, not quite. Have another look!",
+"seconds": 2.96,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"mid"
+],
+[
+0.42,
+"smile"
+],
+[
+0.9,
+"open"
+],
+[
+1.02,
+"ee"
+],
+[
+1.27,
+"open"
+],
+[
+1.4,
+"ee"
+],
+[
+1.54,
+"smile"
+],
+[
+1.95,
+"open"
+],
+[
+2.11,
+"mid"
+],
+[
+2.44,
+"oo"
+],
+[
+2.56,
+"smile"
+]
+]
+},
+"pr_show": {
+"src": "pr_show.mp3",
+"text": "Let me show you how.",
+"seconds": 1.45,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"mid"
+],
+[
+0.37,
+"ee"
+],
+[
+0.55,
+"oh"
+],
+[
+0.64,
+"oo"
+],
+[
+0.81,
+"open"
+],
+[
+1.01,
+"oo"
+],
+[
+1.12,
+"smile"
+]
+]
+},
+"pr_yes1": {
+"src": "pr_yes1.mp3",
+"text": "Yes! Three in a row!",
+"seconds": 2.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"mid"
+],
+[
+0.72,
+"ee"
+],
+[
+0.84,
+"smile"
+],
+[
+1.07,
+"ee"
+],
+[
+1.45,
+"mid"
+],
+[
+1.65,
+"oh"
+],
+[
+1.85,
+"oo"
+],
+[
+2.02,
+"smile"
+]
+]
+},
+"pr_yes2": {
+"src": "pr_yes2.mp3",
+"text": "That's it!",
+"seconds": 1.26,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"open"
+],
+[
+0.52,
+"ee"
+],
+[
+0.9,
+"smile"
+]
+]
+},
+"pr_yes3": {
+"src": "pr_yes3.mp3",
+"text": "Brilliant! Keep going!",
+"seconds": 1.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.38,
+"ee"
+],
+[
+0.48,
+"mid"
+],
+[
+0.67,
+"ee"
+],
+[
+0.79,
+"smile"
+],
+[
+1.02,
+"ee"
+],
+[
+1.14,
+"smile"
+],
+[
+1.27,
+"ee"
+],
+[
+1.59,
+"smile"
+]
+]
+},
+"pr_quick": {
+"src": "pr_quick.mp3",
+"text": "Now the quick ones! As fast as you can!",
+"seconds": 2.88,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"ee"
+],
+[
+0.48,
+"open"
+],
+[
+0.57,
+"oo"
+],
+[
+0.7,
+"mid"
+],
+[
+0.82,
+"ee"
+],
+[
+1.1,
+"open"
+],
+[
+1.26,
+"ee"
+],
+[
+1.4,
+"smile"
+],
+[
+1.56,
+"open"
+],
+[
+1.69,
+"ee"
+],
+[
+1.82,
+"open"
+],
+[
+1.96,
+"ee"
+],
+[
+2.15,
+"open"
+],
+[
+2.44,
+"smile"
+]
+]
+},
+"pr_end": {
+"src": "pr_end.mp3",
+"text": "You did it! Great work!",
+"seconds": 2.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.28,
+"ee"
+],
+[
+0.36,
+"oo"
+],
+[
+0.66,
+"ee"
+],
+[
+1.3,
+"smile"
+],
+[
+1.55,
+"mid"
+],
+[
+1.64,
+"ee"
+],
+[
+1.77,
+"mid"
+],
+[
+2.02,
+"smile"
+]
+]
+},
+"vp_intro": {
+"src": "vp_intro.mp3",
+"text": "Let's wake up the volcano! Every right answer makes it rumble.",
+"seconds": 4.46,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"mid"
+],
+[
+0.6,
+"ee"
+],
+[
+0.77,
+"mid"
+],
+[
+0.85,
+"ee"
+],
+[
+1.01,
+"smile"
+],
+[
+1.11,
+"open"
+],
+[
+1.36,
+"mid"
+],
+[
+1.54,
+"ee"
+],
+[
+1.66,
+"oh"
+],
+[
+1.73,
+"smile"
+],
+[
+2.19,
+"mid"
+],
+[
+2.42,
+"ee"
+],
+[
+2.59,
+"open"
+],
+[
+2.69,
+"ee"
+],
+[
+2.83,
+"open"
+],
+[
+2.94,
+"ee"
+],
+[
+3.06,
+"mid"
+],
+[
+3.19,
+"smile"
+],
+[
+3.25,
+"mid"
+],
+[
+3.33,
+"ee"
+],
+[
+3.63,
+"mid"
+],
+[
+3.79,
+"smile"
+],
+[
+3.86,
+"mid"
+],
+[
+4.01,
+"smile"
+]
+]
+},
+"vp_dots": {
+"src": "vp_dots.mp3",
+"text": "No hurry! Look at the dots.",
+"seconds": 2.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.6,
+"ee"
+],
+[
+0.69,
+"oh"
+],
+[
+0.82,
+"oo"
+],
+[
+0.91,
+"mid"
+],
+[
+1.02,
+"ee"
+],
+[
+1.17,
+"smile"
+],
+[
+1.49,
+"oo"
+],
+[
+1.65,
+"ee"
+],
+[
+1.9,
+"open"
+],
+[
+2.13,
+"ee"
+],
+[
+2.31,
+"smile"
+]
+]
+},
+"vp_go": {
+"src": "vp_go.mp3",
+"text": "Ready? Go!",
+"seconds": 1.6,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"mid"
+],
+[
+0.34,
+"ee"
+],
+[
+0.47,
+"smile"
+],
+[
+0.94,
+"oh"
+],
+[
+1.02,
+"smile"
+]
+]
+},
+"vp_quick": {
+"src": "vp_quick.mp3",
+"text": "Ooh, quick! A big puff!",
+"seconds": 2.37,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"oo"
+],
+[
+0.69,
+"ee"
+],
+[
+0.96,
+"smile"
+],
+[
+1.2,
+"mid"
+],
+[
+1.35,
+"smile"
+],
+[
+1.42,
+"ee"
+],
+[
+1.58,
+"smile"
+],
+[
+1.65,
+"open"
+],
+[
+1.76,
+"smile"
+]
+]
+},
+"vp_rumble": {
+"src": "vp_rumble.mp3",
+"text": "It's rumbling! Keep going!",
+"seconds": 2.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"ee"
+],
+[
+0.57,
+"mid"
+],
+[
+0.88,
+"ee"
+],
+[
+1.14,
+"smile"
+],
+[
+1.38,
+"ee"
+],
+[
+1.52,
+"smile"
+],
+[
+1.68,
+"oh"
+],
+[
+1.76,
+"oo"
+],
+[
+1.84,
+"ee"
+],
+[
+2.08,
+"smile"
+]
+]
+},
+"vp_time": {
+"src": "vp_time.mp3",
+"text": "Time's up!",
+"seconds": 1.08,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"open"
+],
+[
+0.32,
+"smile"
+],
+[
+0.38,
+"open"
+],
+[
+0.52,
+"smile"
+]
+]
+},
+"vp_pop": {
+"src": "vp_pop.mp3",
+"text": "Here it comes... POP!",
+"seconds": 1.96,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"ee"
+],
+[
+0.73,
+"open"
+],
+[
+0.95,
+"smile"
+],
+[
+1.03,
+"ee"
+],
+[
+1.12,
+"smile"
+],
+[
+1.44,
+"open"
+],
+[
+1.55,
+"smile"
+]
+]
+},
+"vp_best": {
+"src": "vp_best.mp3",
+"text": "A new best! Look how high!",
+"seconds": 2.77,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"mid"
+],
+[
+0.6,
+"oo"
+],
+[
+0.81,
+"smile"
+],
+[
+0.89,
+"mid"
+],
+[
+1.09,
+"ee"
+],
+[
+1.25,
+"smile"
+],
+[
+1.61,
+"oo"
+],
+[
+1.8,
+"open"
+],
+[
+2.19,
+"ee"
+],
+[
+2.33,
+"smile"
+]
+]
+},
+"vp_done": {
+"src": "vp_done.mp3",
+"text": "Popcorn for everyone!",
+"seconds": 1.98,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"open"
+],
+[
+0.5,
+"smile"
+],
+[
+0.55,
+"oh"
+],
+[
+0.8,
+"ee"
+],
+[
+0.91,
+"oh"
+],
+[
+1.01,
+"mid"
+],
+[
+1.28,
+"ee"
+],
+[
+1.46,
+"mid"
+],
+[
+1.59,
+"smile"
+]
+]
+},
+"kc_intro": {
+"src": "kc_intro.mp3",
+"text": "Race you! Every right answer is a boost!",
+"seconds": 2.92,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"mid"
+],
+[
+0.41,
+"ee"
+],
+[
+0.66,
+"oo"
+],
+[
+0.86,
+"smile"
+],
+[
+1.11,
+"mid"
+],
+[
+1.32,
+"ee"
+],
+[
+1.47,
+"open"
+],
+[
+1.55,
+"ee"
+],
+[
+1.66,
+"open"
+],
+[
+1.74,
+"ee"
+],
+[
+1.83,
+"mid"
+],
+[
+1.93,
+"ee"
+],
+[
+2.1,
+"smile"
+],
+[
+2.17,
+"oo"
+],
+[
+2.31,
+"ee"
+],
+[
+2.42,
+"smile"
+]
+]
+},
+"kc_go": {
+"src": "kc_go.mp3",
+"text": "Ready, steady, go!",
+"seconds": 2.07,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"mid"
+],
+[
+0.43,
+"ee"
+],
+[
+0.64,
+"smile"
+],
+[
+0.78,
+"ee"
+],
+[
+0.9,
+"mid"
+],
+[
+1.05,
+"ee"
+],
+[
+1.28,
+"smile"
+],
+[
+1.51,
+"oh"
+],
+[
+1.65,
+"oo"
+],
+[
+1.74,
+"smile"
+]
+]
+},
+"kc_dots": {
+"src": "kc_dots.mp3",
+"text": "No hurry! Look at the dots, then type.",
+"seconds": 3.27,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"oh"
+],
+[
+0.5,
+"oo"
+],
+[
+0.57,
+"mid"
+],
+[
+0.77,
+"ee"
+],
+[
+0.91,
+"smile"
+],
+[
+1.28,
+"oo"
+],
+[
+1.55,
+"mid"
+],
+[
+1.66,
+"open"
+],
+[
+1.94,
+"ee"
+],
+[
+2.1,
+"smile"
+],
+[
+2.34,
+"mid"
+],
+[
+2.48,
+"ee"
+],
+[
+2.58,
+"smile"
+]
+]
+},
+"kc_miss": {
+"src": "kc_miss.mp3",
+"text": "So close! Keep going!",
+"seconds": 2.26,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.35,
+"ee"
+],
+[
+0.48,
+"oh"
+],
+[
+0.61,
+"oo"
+],
+[
+0.83,
+"oh"
+],
+[
+0.94,
+"smile"
+],
+[
+1.33,
+"ee"
+],
+[
+1.46,
+"smile"
+],
+[
+1.7,
+"ee"
+],
+[
+1.85,
+"smile"
+]
+]
+},
+"kc_time": {
+"src": "kc_time.mp3",
+"text": "Time's up! Let's look at the board.",
+"seconds": 2.39,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.29,
+"open"
+],
+[
+0.42,
+"ee"
+],
+[
+0.52,
+"smile"
+],
+[
+0.6,
+"ee"
+],
+[
+0.69,
+"open"
+],
+[
+0.84,
+"smile"
+],
+[
+1.11,
+"mid"
+],
+[
+1.28,
+"ee"
+],
+[
+1.39,
+"oo"
+],
+[
+1.59,
+"open"
+],
+[
+1.71,
+"smile"
+],
+[
+1.77,
+"oh"
+],
+[
+1.91,
+"smile"
+]
+]
+},
+"kc_win": {
+"src": "kc_win.mp3",
+"text": "You won! That was a great race!",
+"seconds": 2.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"oo"
+],
+[
+0.56,
+"open"
+],
+[
+0.83,
+"ee"
+],
+[
+0.93,
+"smile"
+],
+[
+1.18,
+"open"
+],
+[
+1.6,
+"mid"
+],
+[
+1.8,
+"ee"
+],
+[
+2.02,
+"mid"
+],
+[
+2.25,
+"ee"
+],
+[
+2.5,
+"smile"
+]
+]
+},
+"kc_lose": {
+"src": "kc_lose.mp3",
+"text": "That was close! Shall we race again?",
+"seconds": 2.76,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"open"
+],
+[
+0.69,
+"ee"
+],
+[
+0.83,
+"mid"
+],
+[
+0.92,
+"oh"
+],
+[
+1.06,
+"oo"
+],
+[
+1.18,
+"ee"
+],
+[
+1.29,
+"smile"
+],
+[
+1.53,
+"open"
+],
+[
+1.65,
+"ee"
+],
+[
+1.8,
+"mid"
+],
+[
+1.94,
+"ee"
+],
+[
+2.08,
+"mid"
+],
+[
+2.42,
+"smile"
+]
+]
+},
+"kc_calm": {
+"src": "kc_calm.mp3",
+"text": "We made it! What a race!",
+"seconds": 2.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.53,
+"ee"
+],
+[
+0.69,
+"smile"
+],
+[
+0.79,
+"mid"
+],
+[
+0.93,
+"ee"
+],
+[
+1.31,
+"smile"
+],
+[
+1.42,
+"open"
+],
+[
+1.67,
+"mid"
+],
+[
+2.08,
+"ee"
+],
+[
+2.35,
+"smile"
+]
+]
+},
+"kc_pass": {
+"src": "kc_pass.mp3",
+"text": "Whoa! You passed me!",
+"seconds": 2.28,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.51,
+"oo"
+],
+[
+0.58,
+"oh"
+],
+[
+0.71,
+"oo"
+],
+[
+0.82,
+"smile"
+],
+[
+1.16,
+"oo"
+],
+[
+1.35,
+"smile"
+],
+[
+1.42,
+"open"
+],
+[
+1.58,
+"ee"
+],
+[
+1.71,
+"smile"
+],
+[
+1.77,
+"ee"
+],
+[
+1.94,
+"smile"
+]
+]
+},
+"kc_jump": {
+"src": "kc_jump.mp3",
+"text": "Three in a row! A big jump!",
+"seconds": 2.92,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"ee"
+],
+[
+0.78,
+"mid"
+],
+[
+0.94,
+"oh"
+],
+[
+1.09,
+"oo"
+],
+[
+1.21,
+"smile"
+],
+[
+1.42,
+"mid"
+],
+[
+1.56,
+"smile"
+],
+[
+1.77,
+"ee"
+],
+[
+2.02,
+"smile"
+],
+[
+2.13,
+"open"
+],
+[
+2.4,
+"smile"
+]
+]
+},
+"bt_intro": {
+"src": "bt_intro.mp3",
+"text": "Welcome to my bakery! Everything has to come out on time.",
+"seconds": 3.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.78,
+"smile"
+],
+[
+0.84,
+"oo"
+],
+[
+0.92,
+"smile"
+],
+[
+1.19,
+"ee"
+],
+[
+1.26,
+"mid"
+],
+[
+1.39,
+"ee"
+],
+[
+1.49,
+"smile"
+],
+[
+1.83,
+"mid"
+],
+[
+1.94,
+"ee"
+],
+[
+2.29,
+"open"
+],
+[
+2.4,
+"ee"
+],
+[
+2.48,
+"oo"
+],
+[
+2.56,
+"open"
+],
+[
+2.69,
+"smile"
+],
+[
+2.75,
+"open"
+],
+[
+3.0,
+"ee"
+],
+[
+3.08,
+"open"
+],
+[
+3.19,
+"ee"
+],
+[
+3.29,
+"smile"
+]
+]
+},
+"bt_set": {
+"src": "bt_set.mp3",
+"text": "Into the oven! Set the clock for when it comes out.",
+"seconds": 3.75,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.6,
+"ee"
+],
+[
+0.85,
+"oo"
+],
+[
+0.99,
+"mid"
+],
+[
+1.47,
+"smile"
+],
+[
+1.8,
+"ee"
+],
+[
+1.9,
+"mid"
+],
+[
+2.27,
+"open"
+],
+[
+2.4,
+"smile"
+],
+[
+2.56,
+"oh"
+],
+[
+2.71,
+"mid"
+],
+[
+2.81,
+"ee"
+],
+[
+2.96,
+"open"
+],
+[
+3.06,
+"smile"
+],
+[
+3.12,
+"open"
+],
+[
+3.21,
+"smile"
+]
+]
+},
+"bt_yes1": {
+"src": "bt_yes1.mp3",
+"text": "Ding! Golden!",
+"seconds": 1.89,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"ee"
+],
+[
+0.77,
+"smile"
+],
+[
+1.1,
+"oh"
+],
+[
+1.19,
+"mid"
+],
+[
+1.47,
+"smile"
+]
+]
+},
+"bt_yes2": {
+"src": "bt_yes2.mp3",
+"text": "Baked just in time!",
+"seconds": 2.07,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.54,
+"ee"
+],
+[
+0.65,
+"smile"
+],
+[
+0.92,
+"open"
+],
+[
+1.08,
+"ee"
+],
+[
+1.41,
+"open"
+],
+[
+1.5,
+"ee"
+],
+[
+1.58,
+"smile"
+]
+]
+},
+"bt_early": {
+"src": "bt_early.mp3",
+"text": "Too early! Still dough.",
+"seconds": 2.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"oo"
+],
+[
+0.51,
+"mid"
+],
+[
+0.61,
+"ee"
+],
+[
+0.76,
+"smile"
+],
+[
+1.04,
+"ee"
+],
+[
+1.46,
+"oh"
+],
+[
+1.6,
+"oo"
+],
+[
+1.72,
+"smile"
+]
+]
+},
+"bt_late": {
+"src": "bt_late.mp3",
+"text": "Oh no, burnt! That's too late.",
+"seconds": 3.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"oh"
+],
+[
+0.79,
+"oo"
+],
+[
+0.93,
+"ee"
+],
+[
+1.06,
+"oh"
+],
+[
+1.25,
+"oo"
+],
+[
+1.42,
+"smile"
+],
+[
+1.65,
+"mid"
+],
+[
+1.89,
+"ee"
+],
+[
+2.04,
+"smile"
+],
+[
+2.36,
+"open"
+],
+[
+2.48,
+"ee"
+],
+[
+2.67,
+"oo"
+],
+[
+2.85,
+"mid"
+],
+[
+3.0,
+"ee"
+],
+[
+3.11,
+"smile"
+]
+]
+},
+"bt_tip_hour": {
+"src": "bt_tip_hour.mp3",
+"text": "Look at the little hand.",
+"seconds": 1.87,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"oo"
+],
+[
+0.56,
+"mid"
+],
+[
+0.69,
+"ee"
+],
+[
+0.81,
+"mid"
+],
+[
+0.93,
+"open"
+],
+[
+1.34,
+"ee"
+],
+[
+1.55,
+"smile"
+]
+]
+},
+"bt_tip_minute": {
+"src": "bt_tip_minute.mp3",
+"text": "Look at the big hand.",
+"seconds": 2.44,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.53,
+"oo"
+],
+[
+0.8,
+"ee"
+],
+[
+0.9,
+"open"
+],
+[
+1.21,
+"smile"
+],
+[
+1.29,
+"ee"
+],
+[
+1.66,
+"open"
+],
+[
+1.98,
+"ee"
+],
+[
+2.15,
+"smile"
+]
+]
+},
+"bt_show": {
+"src": "bt_show.mp3",
+"text": "Watch the clock.",
+"seconds": 1.47,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"open"
+],
+[
+0.61,
+"oo"
+],
+[
+0.69,
+"mid"
+],
+[
+0.91,
+"open"
+],
+[
+1.05,
+"smile"
+]
+]
+},
+"bt_read": {
+"src": "bt_read.mp3",
+"text": "When is it ready? Read the clock.",
+"seconds": 2.45,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"mid"
+],
+[
+0.52,
+"ee"
+],
+[
+0.78,
+"mid"
+],
+[
+0.93,
+"ee"
+],
+[
+1.07,
+"smile"
+],
+[
+1.32,
+"mid"
+],
+[
+1.46,
+"ee"
+],
+[
+1.55,
+"mid"
+],
+[
+1.75,
+"open"
+],
+[
+1.96,
+"smile"
+]
+]
+},
+"bt_pick": {
+"src": "bt_pick.mp3",
+"text": "Which clock shows this time?",
+"seconds": 2.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"ee"
+],
+[
+0.82,
+"oo"
+],
+[
+0.97,
+"open"
+],
+[
+1.36,
+"oh"
+],
+[
+1.46,
+"ee"
+],
+[
+1.93,
+"open"
+],
+[
+2.04,
+"ee"
+],
+[
+2.12,
+"smile"
+]
+]
+},
+"bt_steps_last": {
+"src": "bt_steps_last.mp3",
+"text": "What comes last?",
+"seconds": 1.57,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.23,
+"open"
+],
+[
+0.34,
+"ee"
+],
+[
+0.47,
+"open"
+],
+[
+0.59,
+"smile"
+],
+[
+0.65,
+"mid"
+],
+[
+0.77,
+"open"
+],
+[
+0.99,
+"ee"
+],
+[
+1.17,
+"smile"
+]
+]
+},
+"bt_steps_first": {
+"src": "bt_steps_first.mp3",
+"text": "What comes first?",
+"seconds": 1.65,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.32,
+"open"
+],
+[
+0.46,
+"ee"
+],
+[
+0.58,
+"open"
+],
+[
+0.69,
+"smile"
+],
+[
+0.76,
+"ee"
+],
+[
+0.86,
+"mid"
+],
+[
+1.03,
+"ee"
+],
+[
+1.17,
+"smile"
+]
+]
+},
+"bt_steps_next": {
+"src": "bt_steps_next.mp3",
+"text": "What comes next?",
+"seconds": 1.59,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.2,
+"open"
+],
+[
+0.34,
+"ee"
+],
+[
+0.43,
+"open"
+],
+[
+0.58,
+"smile"
+],
+[
+0.65,
+"ee"
+],
+[
+0.76,
+"mid"
+],
+[
+0.9,
+"ee"
+],
+[
+1.07,
+"smile"
+]
+]
+},
+"bt_tip_steps": {
+"src": "bt_tip_steps.mp3",
+"text": "Hmm. What do we need before that?",
+"seconds": 4.28,
+"cues": [
+[
+0.0,
+"mid"
+],
+[
+0.68,
+"smile"
+],
+[
+2.06,
+"open"
+],
+[
+2.19,
+"smile"
+],
+[
+2.4,
+"oo"
+],
+[
+2.56,
+"ee"
+],
+[
+3.48,
+"oh"
+],
+[
+3.73,
+"open"
+],
+[
+3.86,
+"smile"
+]
+]
+},
+"bt_day_or_night": {
+"src": "bt_day_or_night.mp3",
+"text": "Look out of the window. Is it day or night?",
+"seconds": 3.29,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.42,
+"oo"
+],
+[
+0.93,
+"ee"
+],
+[
+1.1,
+"oh"
+],
+[
+1.19,
+"smile"
+],
+[
+1.66,
+"ee"
+],
+[
+2.0,
+"mid"
+],
+[
+2.15,
+"ee"
+],
+[
+2.27,
+"smile"
+],
+[
+2.38,
+"oh"
+],
+[
+2.52,
+"ee"
+],
+[
+2.6,
+"open"
+],
+[
+2.71,
+"ee"
+],
+[
+2.85,
+"smile"
+]
+]
+},
+"bt_when_sleep": {
+"src": "bt_when_sleep.mp3",
+"text": "When do we sleep?",
+"seconds": 1.69,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"mid"
+],
+[
+0.72,
+"ee"
+],
+[
+0.8,
+"oo"
+],
+[
+0.9,
+"ee"
+],
+[
+1.26,
+"smile"
+]
+]
+},
+"bt_when_play": {
+"src": "bt_when_play.mp3",
+"text": "When do we play outside?",
+"seconds": 1.77,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"mid"
+],
+[
+0.48,
+"oo"
+],
+[
+0.56,
+"ee"
+],
+[
+0.65,
+"smile"
+],
+[
+0.71,
+"mid"
+],
+[
+0.79,
+"open"
+],
+[
+0.9,
+"oo"
+],
+[
+0.97,
+"open"
+],
+[
+1.09,
+"ee"
+],
+[
+1.39,
+"smile"
+]
+]
+},
+"bt_when_wake": {
+"src": "bt_when_wake.mp3",
+"text": "When do we wake up?",
+"seconds": 1.65,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"mid"
+],
+[
+0.48,
+"ee"
+],
+[
+0.57,
+"oo"
+],
+[
+0.69,
+"ee"
+],
+[
+0.83,
+"mid"
+],
+[
+0.92,
+"ee"
+],
+[
+1.05,
+"open"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"bt_when_breakfast": {
+"src": "bt_when_breakfast.mp3",
+"text": "When do we eat breakfast?",
+"seconds": 2.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.58,
+"ee"
+],
+[
+0.66,
+"oo"
+],
+[
+0.81,
+"ee"
+],
+[
+1.12,
+"smile"
+],
+[
+1.19,
+"mid"
+],
+[
+1.33,
+"ee"
+],
+[
+1.42,
+"mid"
+],
+[
+1.53,
+"ee"
+],
+[
+1.62,
+"smile"
+]
+]
+},
+"bt_tip_window": {
+"src": "bt_tip_window.mp3",
+"text": "Look at the window. What's in the sky?",
+"seconds": 2.85,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"oo"
+],
+[
+0.6,
+"ee"
+],
+[
+1.03,
+"oh"
+],
+[
+1.11,
+"smile"
+],
+[
+1.64,
+"open"
+],
+[
+1.73,
+"ee"
+],
+[
+2.15,
+"open"
+],
+[
+2.27,
+"ee"
+],
+[
+2.36,
+"smile"
+]
+]
+},
+"bt_tip_think": {
+"src": "bt_tip_think.mp3",
+"text": "Think about your own day.",
+"seconds": 1.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"ee"
+],
+[
+0.76,
+"mid"
+],
+[
+0.83,
+"smile"
+],
+[
+0.96,
+"oh"
+],
+[
+1.3,
+"ee"
+],
+[
+1.4,
+"mid"
+],
+[
+1.49,
+"smile"
+]
+]
+},
+"bt_which_part": {
+"src": "bt_which_part.mp3",
+"text": "What part of the day is it?",
+"seconds": 2.58,
+"cues": [
+[
+0.0,
+"oo"
+],
+[
+0.06,
+"open"
+],
+[
+0.27,
+"smile"
+],
+[
+0.81,
+"open"
+],
+[
+0.95,
+"mid"
+],
+[
+1.22,
+"ee"
+],
+[
+1.38,
+"mid"
+],
+[
+1.68,
+"ee"
+],
+[
+2.13,
+"smile"
+]
+]
+},
+"bt_part_breakfast": {
+"src": "bt_part_breakfast.mp3",
+"text": "When do we eat breakfast?",
+"seconds": 1.96,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.55,
+"ee"
+],
+[
+0.64,
+"oo"
+],
+[
+0.77,
+"ee"
+],
+[
+0.98,
+"smile"
+],
+[
+1.04,
+"mid"
+],
+[
+1.17,
+"ee"
+],
+[
+1.24,
+"mid"
+],
+[
+1.39,
+"ee"
+],
+[
+1.56,
+"smile"
+]
+]
+},
+"bt_part_lunch": {
+"src": "bt_part_lunch.mp3",
+"text": "When do we eat lunch?",
+"seconds": 1.64,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.05,
+"mid"
+],
+[
+0.32,
+"ee"
+],
+[
+0.42,
+"oo"
+],
+[
+0.52,
+"ee"
+],
+[
+0.84,
+"mid"
+],
+[
+0.93,
+"open"
+],
+[
+1.16,
+"ee"
+],
+[
+1.23,
+"oo"
+],
+[
+1.32,
+"smile"
+]
+]
+},
+"bt_part_sleep": {
+"src": "bt_part_sleep.mp3",
+"text": "When do we go to sleep?",
+"seconds": 1.89,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"mid"
+],
+[
+0.52,
+"ee"
+],
+[
+0.6,
+"oo"
+],
+[
+0.71,
+"ee"
+],
+[
+0.82,
+"oo"
+],
+[
+1.02,
+"ee"
+],
+[
+1.32,
+"smile"
+]
+]
+},
+"bt_part_wake": {
+"src": "bt_part_wake.mp3",
+"text": "When do we wake up?",
+"seconds": 1.79,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.74,
+"oo"
+],
+[
+0.83,
+"mid"
+],
+[
+1.04,
+"ee"
+],
+[
+1.18,
+"open"
+],
+[
+1.35,
+"smile"
+]
+]
+},
+"bt_part_order": {
+"src": "bt_part_order.mp3",
+"text": "Morning, afternoon, night. Tap them in order!",
+"seconds": 3.48,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"oh"
+],
+[
+0.53,
+"ee"
+],
+[
+0.84,
+"smile"
+],
+[
+1.02,
+"open"
+],
+[
+1.17,
+"ee"
+],
+[
+1.3,
+"mid"
+],
+[
+1.44,
+"oo"
+],
+[
+1.61,
+"smile"
+],
+[
+1.71,
+"ee"
+],
+[
+1.81,
+"open"
+],
+[
+1.95,
+"ee"
+],
+[
+2.12,
+"smile"
+],
+[
+2.38,
+"open"
+],
+[
+2.52,
+"smile"
+],
+[
+2.65,
+"mid"
+],
+[
+2.73,
+"smile"
+],
+[
+2.96,
+"mid"
+],
+[
+3.06,
+"smile"
+]
+]
+},
+"bt_before": {
+"src": "bt_before.mp3",
+"text": "What comes before this?",
+"seconds": 1.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"open"
+],
+[
+0.52,
+"ee"
+],
+[
+0.6,
+"open"
+],
+[
+0.69,
+"smile"
+],
+[
+0.76,
+"ee"
+],
+[
+0.97,
+"oh"
+],
+[
+1.09,
+"mid"
+],
+[
+1.18,
+"ee"
+],
+[
+1.49,
+"smile"
+]
+]
+},
+"bt_after": {
+"src": "bt_after.mp3",
+"text": "What comes after this?",
+"seconds": 1.99,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"open"
+],
+[
+0.6,
+"ee"
+],
+[
+0.73,
+"open"
+],
+[
+0.86,
+"smile"
+],
+[
+0.92,
+"open"
+],
+[
+1.12,
+"mid"
+],
+[
+1.23,
+"ee"
+],
+[
+1.58,
+"smile"
+]
+]
+},
+"bt_tip_order": {
+"src": "bt_tip_order.mp3",
+"text": "Which one happens first?",
+"seconds": 1.75,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.38,
+"ee"
+],
+[
+0.52,
+"oo"
+],
+[
+0.6,
+"open"
+],
+[
+0.82,
+"smile"
+],
+[
+0.89,
+"ee"
+],
+[
+1.09,
+"mid"
+],
+[
+1.24,
+"ee"
+],
+[
+1.35,
+"smile"
+]
+]
+},
+"bt_week_fill": {
+"src": "bt_week_fill.mp3",
+"text": "Which day is missing?",
+"seconds": 1.87,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"ee"
+],
+[
+0.64,
+"oo"
+],
+[
+0.72,
+"mid"
+],
+[
+0.88,
+"ee"
+],
+[
+1.08,
+"smile"
+],
+[
+1.15,
+"ee"
+],
+[
+1.49,
+"smile"
+]
+]
+},
+"bt_tip_week": {
+"src": "bt_tip_week.mp3",
+"text": "Say the days with me.",
+"seconds": 1.73,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"mid"
+],
+[
+0.48,
+"ee"
+],
+[
+0.59,
+"mid"
+],
+[
+0.81,
+"ee"
+],
+[
+1.14,
+"smile"
+],
+[
+1.2,
+"ee"
+],
+[
+1.29,
+"smile"
+]
+]
+},
+"bt_after_day": {
+"src": "bt_after_day.mp3",
+"text": "Which day comes after this one?",
+"seconds": 2.55,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.5,
+"ee"
+],
+[
+0.7,
+"oo"
+],
+[
+0.8,
+"mid"
+],
+[
+1.0,
+"ee"
+],
+[
+1.19,
+"open"
+],
+[
+1.29,
+"smile"
+],
+[
+1.35,
+"open"
+],
+[
+1.53,
+"mid"
+],
+[
+1.62,
+"ee"
+],
+[
+1.9,
+"open"
+],
+[
+2.08,
+"smile"
+]
+]
+},
+"bt_before_day": {
+"src": "bt_before_day.mp3",
+"text": "Which day comes before this one?",
+"seconds": 2.11,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"ee"
+],
+[
+0.61,
+"oo"
+],
+[
+0.73,
+"mid"
+],
+[
+0.81,
+"ee"
+],
+[
+0.94,
+"open"
+],
+[
+1.03,
+"smile"
+],
+[
+1.19,
+"ee"
+],
+[
+1.29,
+"oh"
+],
+[
+1.38,
+"ee"
+],
+[
+1.62,
+"open"
+],
+[
+1.74,
+"smile"
+]
+]
+},
+"bt_how_many_days": {
+"src": "bt_how_many_days.mp3",
+"text": "How many days in a week?",
+"seconds": 1.82,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"open"
+],
+[
+0.45,
+"smile"
+],
+[
+0.51,
+"ee"
+],
+[
+0.7,
+"mid"
+],
+[
+0.79,
+"ee"
+],
+[
+1.43,
+"smile"
+]
+]
+},
+"bt_today_is": {
+"src": "bt_today_is.mp3",
+"text": "Here's today. And yesterday we baked this.",
+"seconds": 3.5,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.32,
+"ee"
+],
+[
+0.65,
+"mid"
+],
+[
+0.95,
+"ee"
+],
+[
+1.03,
+"smile"
+],
+[
+1.23,
+"mid"
+],
+[
+1.36,
+"ee"
+],
+[
+1.48,
+"mid"
+],
+[
+1.65,
+"ee"
+],
+[
+1.77,
+"mid"
+],
+[
+2.13,
+"smile"
+],
+[
+2.35,
+"ee"
+],
+[
+2.46,
+"smile"
+],
+[
+2.52,
+"ee"
+],
+[
+2.63,
+"smile"
+],
+[
+2.73,
+"ee"
+],
+[
+3.13,
+"smile"
+]
+]
+},
+"bt_yesterday": {
+"src": "bt_yesterday.mp3",
+"text": "Which day was yesterday?",
+"seconds": 2.04,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"ee"
+],
+[
+0.54,
+"mid"
+],
+[
+0.69,
+"ee"
+],
+[
+0.78,
+"open"
+],
+[
+0.95,
+"mid"
+],
+[
+1.09,
+"ee"
+],
+[
+1.2,
+"mid"
+],
+[
+1.38,
+"smile"
+]
+]
+},
+"bt_tomorrow": {
+"src": "bt_tomorrow.mp3",
+"text": "Which day is tomorrow?",
+"seconds": 1.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"ee"
+],
+[
+0.59,
+"mid"
+],
+[
+0.73,
+"ee"
+],
+[
+0.98,
+"mid"
+],
+[
+1.11,
+"smile"
+],
+[
+1.18,
+"open"
+],
+[
+1.35,
+"oh"
+],
+[
+1.44,
+"smile"
+]
+]
+},
+"bt_what_yesterday": {
+"src": "bt_what_yesterday.mp3",
+"text": "What did we bake yesterday?",
+"seconds": 2.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.58,
+"open"
+],
+[
+0.69,
+"ee"
+],
+[
+0.94,
+"smile"
+],
+[
+1.0,
+"ee"
+],
+[
+1.23,
+"mid"
+],
+[
+1.34,
+"ee"
+],
+[
+1.44,
+"mid"
+],
+[
+1.65,
+"smile"
+]
+]
+},
+"bt_new_day": {
+"src": "bt_new_day.mp3",
+"text": "A new day!",
+"seconds": 1.71,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.6,
+"mid"
+],
+[
+0.76,
+"ee"
+],
+[
+0.83,
+"oo"
+],
+[
+1.14,
+"mid"
+],
+[
+1.27,
+"ee"
+],
+[
+1.4,
+"smile"
+]
+]
+},
+"bt_tip_today": {
+"src": "bt_tip_today.mp3",
+"text": "Yesterday is just before today. Tomorrow is just after.",
+"seconds": 4.91,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.64,
+"mid"
+],
+[
+0.77,
+"ee"
+],
+[
+0.89,
+"mid"
+],
+[
+1.12,
+"smile"
+],
+[
+1.26,
+"ee"
+],
+[
+1.34,
+"smile"
+],
+[
+1.49,
+"open"
+],
+[
+1.59,
+"ee"
+],
+[
+1.84,
+"oh"
+],
+[
+1.96,
+"mid"
+],
+[
+2.25,
+"smile"
+],
+[
+2.92,
+"mid"
+],
+[
+3.08,
+"open"
+],
+[
+3.17,
+"oh"
+],
+[
+3.25,
+"smile"
+],
+[
+3.52,
+"ee"
+],
+[
+3.67,
+"smile"
+],
+[
+3.77,
+"open"
+],
+[
+3.97,
+"ee"
+],
+[
+4.08,
+"open"
+],
+[
+4.25,
+"ee"
+],
+[
+4.35,
+"mid"
+],
+[
+4.51,
+"smile"
+]
+]
+},
+"bt_month_fill": {
+"src": "bt_month_fill.mp3",
+"text": "Which month is missing?",
+"seconds": 2.01,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.35,
+"ee"
+],
+[
+0.55,
+"oo"
+],
+[
+0.64,
+"smile"
+],
+[
+0.69,
+"open"
+],
+[
+0.84,
+"ee"
+],
+[
+1.08,
+"smile"
+],
+[
+1.15,
+"ee"
+],
+[
+1.57,
+"smile"
+]
+]
+},
+"bt_month_after": {
+"src": "bt_month_after.mp3",
+"text": "Which month comes after this one?",
+"seconds": 2.28,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.48,
+"ee"
+],
+[
+0.72,
+"smile"
+],
+[
+0.78,
+"open"
+],
+[
+0.89,
+"ee"
+],
+[
+1.04,
+"open"
+],
+[
+1.15,
+"smile"
+],
+[
+1.21,
+"open"
+],
+[
+1.39,
+"mid"
+],
+[
+1.47,
+"ee"
+],
+[
+1.79,
+"smile"
+]
+]
+},
+"bt_tip_month": {
+"src": "bt_tip_month.mp3",
+"text": "Say the months with me.",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.51,
+"ee"
+],
+[
+0.6,
+"mid"
+],
+[
+0.68,
+"smile"
+],
+[
+0.74,
+"open"
+],
+[
+0.84,
+"ee"
+],
+[
+1.18,
+"smile"
+],
+[
+1.23,
+"ee"
+],
+[
+1.38,
+"smile"
+]
+]
+},
+"bt_how_many_months": {
+"src": "bt_how_many_months.mp3",
+"text": "How many months in a year?",
+"seconds": 2.1,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"open"
+],
+[
+0.55,
+"smile"
+],
+[
+0.61,
+"ee"
+],
+[
+0.76,
+"smile"
+],
+[
+0.85,
+"open"
+],
+[
+0.95,
+"ee"
+],
+[
+1.68,
+"mid"
+],
+[
+1.77,
+"smile"
+]
+]
+},
+"bt_one_week": {
+"src": "bt_one_week.mp3",
+"text": "We bake this every week. One week later, which day is it?",
+"seconds": 4.4,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"ee"
+],
+[
+0.59,
+"smile"
+],
+[
+0.65,
+"ee"
+],
+[
+1.12,
+"smile"
+],
+[
+1.23,
+"mid"
+],
+[
+1.45,
+"ee"
+],
+[
+1.79,
+"smile"
+],
+[
+2.29,
+"open"
+],
+[
+2.54,
+"ee"
+],
+[
+2.73,
+"mid"
+],
+[
+2.81,
+"ee"
+],
+[
+2.9,
+"mid"
+],
+[
+3.02,
+"smile"
+],
+[
+3.31,
+"ee"
+],
+[
+3.46,
+"mid"
+],
+[
+3.69,
+"ee"
+],
+[
+4.03,
+"smile"
+]
+]
+},
+"bt_two_weeks": {
+"src": "bt_two_weeks.mp3",
+"text": "Two weeks later?",
+"seconds": 1.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"oo"
+],
+[
+0.68,
+"ee"
+],
+[
+0.96,
+"mid"
+],
+[
+1.1,
+"ee"
+],
+[
+1.21,
+"mid"
+],
+[
+1.36,
+"smile"
+]
+]
+},
+"bt_tip_cal": {
+"src": "bt_tip_cal.mp3",
+"text": "A week has seven days. Each row is one week.",
+"seconds": 4.1,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.66,
+"ee"
+],
+[
+1.0,
+"smile"
+],
+[
+1.11,
+"open"
+],
+[
+1.3,
+"ee"
+],
+[
+1.46,
+"mid"
+],
+[
+2.04,
+"ee"
+],
+[
+2.27,
+"smile"
+],
+[
+2.54,
+"ee"
+],
+[
+2.75,
+"oo"
+],
+[
+2.83,
+"oh"
+],
+[
+3.0,
+"oo"
+],
+[
+3.09,
+"ee"
+],
+[
+3.25,
+"open"
+],
+[
+3.42,
+"ee"
+],
+[
+3.77,
+"smile"
+]
+]
+},
+"bt_ampm": {
+"src": "bt_ampm.mp3",
+"text": "Is this a.m. or p.m.?",
+"seconds": 2.09,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.32,
+"ee"
+],
+[
+0.78,
+"mid"
+],
+[
+1.15,
+"smile"
+],
+[
+1.21,
+"oh"
+],
+[
+1.38,
+"smile"
+],
+[
+1.44,
+"ee"
+],
+[
+1.59,
+"mid"
+],
+[
+1.69,
+"smile"
+]
+]
+},
+"bt_which_thing": {
+"src": "bt_which_thing.mp3",
+"text": "Which one happens at this time?",
+"seconds": 2.46,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"ee"
+],
+[
+0.72,
+"oo"
+],
+[
+0.84,
+"open"
+],
+[
+1.15,
+"smile"
+],
+[
+1.21,
+"mid"
+],
+[
+1.31,
+"ee"
+],
+[
+1.73,
+"open"
+],
+[
+1.82,
+"ee"
+],
+[
+1.91,
+"smile"
+]
+]
+},
+"bt_am_is": {
+"src": "bt_am_is.mp3",
+"text": "a.m. is the morning, before noon.",
+"seconds": 3.06,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"mid"
+],
+[
+0.76,
+"smile"
+],
+[
+0.88,
+"ee"
+],
+[
+1.08,
+"mid"
+],
+[
+1.18,
+"smile"
+],
+[
+1.23,
+"oh"
+],
+[
+1.33,
+"ee"
+],
+[
+1.59,
+"smile"
+],
+[
+1.93,
+"ee"
+],
+[
+2.15,
+"oh"
+],
+[
+2.42,
+"oo"
+],
+[
+2.6,
+"smile"
+]
+]
+},
+"bt_pm_is": {
+"src": "bt_pm_is.mp3",
+"text": "p.m. is after noon, until night.",
+"seconds": 3.42,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.54,
+"ee"
+],
+[
+0.78,
+"mid"
+],
+[
+0.93,
+"smile"
+],
+[
+0.99,
+"ee"
+],
+[
+1.2,
+"smile"
+],
+[
+1.25,
+"open"
+],
+[
+1.38,
+"ee"
+],
+[
+1.46,
+"mid"
+],
+[
+1.59,
+"ee"
+],
+[
+1.71,
+"oo"
+],
+[
+1.98,
+"ee"
+],
+[
+2.08,
+"smile"
+],
+[
+2.19,
+"mid"
+],
+[
+2.33,
+"ee"
+],
+[
+2.65,
+"open"
+],
+[
+2.75,
+"ee"
+],
+[
+2.88,
+"smile"
+]
+]
+},
+"bt_tip_ampm": {
+"src": "bt_tip_ampm.mp3",
+"text": "Morning is a.m. After noon is p.m.",
+"seconds": 3.8,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.47,
+"oh"
+],
+[
+0.62,
+"ee"
+],
+[
+1.23,
+"mid"
+],
+[
+1.6,
+"smile"
+],
+[
+1.98,
+"open"
+],
+[
+2.1,
+"ee"
+],
+[
+2.19,
+"mid"
+],
+[
+2.31,
+"ee"
+],
+[
+2.42,
+"oo"
+],
+[
+2.65,
+"ee"
+],
+[
+3.02,
+"smile"
+],
+[
+3.08,
+"ee"
+],
+[
+3.25,
+"mid"
+],
+[
+3.34,
+"smile"
+]
+]
+},
+"bt_twin": {
+"src": "bt_twin.mp3",
+"text": "Let's try a fresh one!",
+"seconds": 1.95,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"mid"
+],
+[
+0.52,
+"ee"
+],
+[
+0.76,
+"open"
+],
+[
+0.85,
+"ee"
+],
+[
+0.93,
+"smile"
+],
+[
+1.11,
+"mid"
+],
+[
+1.32,
+"oo"
+],
+[
+1.42,
+"open"
+],
+[
+1.53,
+"smile"
+]
+]
+},
+"bt_end": {
+"src": "bt_end.mp3",
+"text": "Everything baked on time! Thank you!",
+"seconds": 2.97,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"mid"
+],
+[
+0.52,
+"ee"
+],
+[
+0.86,
+"smile"
+],
+[
+0.92,
+"ee"
+],
+[
+1.15,
+"open"
+],
+[
+1.25,
+"ee"
+],
+[
+1.36,
+"open"
+],
+[
+1.51,
+"ee"
+],
+[
+1.65,
+"smile"
+],
+[
+2.11,
+"open"
+],
+[
+2.21,
+"smile"
+],
+[
+2.38,
+"oo"
+],
+[
+2.6,
+"smile"
+]
+]
+},
+"bt_t_1_00": {
+"src": "bt_t_1_00.mp3",
+"text": "One o'clock.",
+"seconds": 1.6,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.51,
+"open"
+],
+[
+0.68,
+"mid"
+],
+[
+0.97,
+"open"
+],
+[
+1.1,
+"smile"
+]
+]
+},
+"bt_t_1_15": {
+"src": "bt_t_1_15.mp3",
+"text": "Quarter past one.",
+"seconds": 1.67,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"oh"
+],
+[
+0.6,
+"mid"
+],
+[
+0.68,
+"smile"
+],
+[
+0.77,
+"open"
+],
+[
+0.89,
+"ee"
+],
+[
+1.02,
+"open"
+],
+[
+1.3,
+"ee"
+],
+[
+1.39,
+"smile"
+]
+]
+},
+"bt_t_1_30": {
+"src": "bt_t_1_30.mp3",
+"text": "Half past one.",
+"seconds": 1.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"open"
+],
+[
+0.61,
+"ee"
+],
+[
+0.71,
+"smile"
+],
+[
+0.77,
+"open"
+],
+[
+0.91,
+"ee"
+],
+[
+1.02,
+"open"
+],
+[
+1.29,
+"ee"
+],
+[
+1.38,
+"smile"
+]
+]
+},
+"bt_t_1_45": {
+"src": "bt_t_1_45.mp3",
+"text": "Quarter to two.",
+"seconds": 1.55,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.38,
+"oh"
+],
+[
+0.52,
+"mid"
+],
+[
+0.74,
+"oo"
+],
+[
+1.14,
+"smile"
+]
+]
+},
+"bt_t_2_00": {
+"src": "bt_t_2_00.mp3",
+"text": "Two o'clock.",
+"seconds": 1.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"oo"
+],
+[
+0.54,
+"mid"
+],
+[
+0.84,
+"open"
+],
+[
+1.02,
+"smile"
+]
+]
+},
+"bt_t_2_15": {
+"src": "bt_t_2_15.mp3",
+"text": "Quarter past two.",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"oh"
+],
+[
+0.51,
+"mid"
+],
+[
+0.68,
+"smile"
+],
+[
+0.78,
+"open"
+],
+[
+0.97,
+"ee"
+],
+[
+1.18,
+"oo"
+],
+[
+1.39,
+"smile"
+]
+]
+},
+"bt_t_2_30": {
+"src": "bt_t_2_30.mp3",
+"text": "Half past two.",
+"seconds": 2.26,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.71,
+"open"
+],
+[
+0.91,
+"ee"
+],
+[
+1.07,
+"smile"
+],
+[
+1.14,
+"open"
+],
+[
+1.29,
+"ee"
+],
+[
+1.55,
+"oo"
+],
+[
+1.86,
+"smile"
+]
+]
+},
+"bt_t_2_45": {
+"src": "bt_t_2_45.mp3",
+"text": "Quarter to three.",
+"seconds": 1.56,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"oh"
+],
+[
+0.61,
+"mid"
+],
+[
+0.71,
+"smile"
+],
+[
+0.77,
+"oo"
+],
+[
+0.9,
+"ee"
+],
+[
+1.2,
+"smile"
+]
+]
+},
+"bt_t_3_00": {
+"src": "bt_t_3_00.mp3",
+"text": "Three o'clock.",
+"seconds": 1.59,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"ee"
+],
+[
+0.69,
+"mid"
+],
+[
+0.88,
+"open"
+],
+[
+0.98,
+"smile"
+]
+]
+},
+"bt_t_3_15": {
+"src": "bt_t_3_15.mp3",
+"text": "Quarter past three.",
+"seconds": 1.75,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.56,
+"oh"
+],
+[
+0.66,
+"mid"
+],
+[
+0.83,
+"smile"
+],
+[
+0.9,
+"open"
+],
+[
+0.99,
+"ee"
+],
+[
+1.35,
+"smile"
+]
+]
+},
+"bt_t_3_30": {
+"src": "bt_t_3_30.mp3",
+"text": "Half past three.",
+"seconds": 1.92,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"open"
+],
+[
+0.57,
+"ee"
+],
+[
+0.7,
+"smile"
+],
+[
+0.77,
+"open"
+],
+[
+0.9,
+"ee"
+],
+[
+1.15,
+"mid"
+],
+[
+1.24,
+"ee"
+],
+[
+1.48,
+"smile"
+]
+]
+},
+"bt_t_3_45": {
+"src": "bt_t_3_45.mp3",
+"text": "Quarter to four.",
+"seconds": 1.86,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.61,
+"oh"
+],
+[
+0.77,
+"mid"
+],
+[
+0.97,
+"oo"
+],
+[
+1.09,
+"ee"
+],
+[
+1.18,
+"oh"
+],
+[
+1.38,
+"mid"
+],
+[
+1.46,
+"smile"
+]
+]
+},
+"bt_t_4_00": {
+"src": "bt_t_4_00.mp3",
+"text": "Four o'clock.",
+"seconds": 1.41,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.28,
+"oh"
+],
+[
+0.45,
+"mid"
+],
+[
+0.7,
+"open"
+],
+[
+0.81,
+"smile"
+]
+]
+},
+"bt_t_4_15": {
+"src": "bt_t_4_15.mp3",
+"text": "Quarter past four.",
+"seconds": 1.89,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"ee"
+],
+[
+0.49,
+"oo"
+],
+[
+0.56,
+"oh"
+],
+[
+0.65,
+"mid"
+],
+[
+0.77,
+"smile"
+],
+[
+0.83,
+"open"
+],
+[
+0.96,
+"ee"
+],
+[
+1.19,
+"oh"
+],
+[
+1.39,
+"mid"
+],
+[
+1.46,
+"smile"
+]
+]
+},
+"bt_t_4_30": {
+"src": "bt_t_4_30.mp3",
+"text": "Half past four.",
+"seconds": 2.02,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.46,
+"open"
+],
+[
+0.66,
+"smile"
+],
+[
+0.82,
+"open"
+],
+[
+0.94,
+"ee"
+],
+[
+1.03,
+"smile"
+],
+[
+1.21,
+"ee"
+],
+[
+1.29,
+"oh"
+],
+[
+1.51,
+"mid"
+],
+[
+1.59,
+"smile"
+]
+]
+},
+"bt_t_4_45": {
+"src": "bt_t_4_45.mp3",
+"text": "Quarter to five.",
+"seconds": 1.89,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.83,
+"oh"
+],
+[
+0.93,
+"mid"
+],
+[
+1.07,
+"oo"
+],
+[
+1.25,
+"ee"
+],
+[
+1.34,
+"smile"
+]
+]
+},
+"bt_t_5_00": {
+"src": "bt_t_5_00.mp3",
+"text": "Five o'clock.",
+"seconds": 1.34,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.46,
+"open"
+],
+[
+0.54,
+"ee"
+],
+[
+0.66,
+"smile"
+],
+[
+0.72,
+"mid"
+],
+[
+0.8,
+"open"
+],
+[
+0.89,
+"smile"
+]
+]
+},
+"bt_t_5_15": {
+"src": "bt_t_5_15.mp3",
+"text": "Quarter past five.",
+"seconds": 2.13,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.65,
+"oh"
+],
+[
+0.79,
+"mid"
+],
+[
+0.9,
+"smile"
+],
+[
+0.97,
+"open"
+],
+[
+1.08,
+"ee"
+],
+[
+1.4,
+"open"
+],
+[
+1.56,
+"ee"
+],
+[
+1.82,
+"smile"
+]
+]
+},
+"bt_t_5_30": {
+"src": "bt_t_5_30.mp3",
+"text": "Half past five.",
+"seconds": 1.55,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.24,
+"open"
+],
+[
+0.39,
+"ee"
+],
+[
+0.47,
+"smile"
+],
+[
+0.86,
+"ee"
+],
+[
+0.94,
+"smile"
+]
+]
+},
+"bt_t_5_45": {
+"src": "bt_t_5_45.mp3",
+"text": "Quarter to six.",
+"seconds": 1.53,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.32,
+"ee"
+],
+[
+0.4,
+"oo"
+],
+[
+0.48,
+"oh"
+],
+[
+0.58,
+"mid"
+],
+[
+0.74,
+"ee"
+],
+[
+1.28,
+"smile"
+]
+]
+},
+"bt_t_6_00": {
+"src": "bt_t_6_00.mp3",
+"text": "Six o'clock.",
+"seconds": 1.33,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"ee"
+],
+[
+0.57,
+"mid"
+],
+[
+0.76,
+"open"
+],
+[
+0.86,
+"smile"
+]
+]
+},
+"bt_t_6_15": {
+"src": "bt_t_6_15.mp3",
+"text": "Quarter past six.",
+"seconds": 1.54,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.07,
+"oh"
+],
+[
+0.26,
+"mid"
+],
+[
+0.41,
+"smile"
+],
+[
+0.5,
+"open"
+],
+[
+0.61,
+"ee"
+],
+[
+1.21,
+"smile"
+]
+]
+},
+"bt_t_6_30": {
+"src": "bt_t_6_30.mp3",
+"text": "Half past six.",
+"seconds": 1.77,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.35,
+"open"
+],
+[
+0.5,
+"ee"
+],
+[
+0.6,
+"smile"
+],
+[
+0.66,
+"open"
+],
+[
+0.76,
+"ee"
+],
+[
+1.38,
+"smile"
+]
+]
+},
+"bt_t_6_45": {
+"src": "bt_t_6_45.mp3",
+"text": "Quarter to seven.",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.53,
+"oh"
+],
+[
+0.65,
+"mid"
+],
+[
+1.18,
+"smile"
+]
+]
+},
+"bt_t_7_00": {
+"src": "bt_t_7_00.mp3",
+"text": "Seven o'clock.",
+"seconds": 1.24,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"mid"
+],
+[
+0.29,
+"ee"
+],
+[
+0.37,
+"mid"
+],
+[
+0.48,
+"smile"
+],
+[
+0.57,
+"mid"
+],
+[
+0.66,
+"open"
+],
+[
+0.78,
+"smile"
+]
+]
+},
+"bt_t_7_15": {
+"src": "bt_t_7_15.mp3",
+"text": "Quarter past seven.",
+"seconds": 1.76,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"oh"
+],
+[
+0.62,
+"mid"
+],
+[
+0.71,
+"smile"
+],
+[
+0.79,
+"open"
+],
+[
+0.94,
+"ee"
+],
+[
+1.08,
+"mid"
+],
+[
+1.34,
+"smile"
+]
+]
+},
+"bt_t_7_30": {
+"src": "bt_t_7_30.mp3",
+"text": "Half past seven.",
+"seconds": 1.61,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.38,
+"open"
+],
+[
+0.52,
+"ee"
+],
+[
+0.59,
+"smile"
+],
+[
+0.65,
+"open"
+],
+[
+0.77,
+"ee"
+],
+[
+0.9,
+"mid"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"bt_t_7_45": {
+"src": "bt_t_7_45.mp3",
+"text": "Quarter to eight.",
+"seconds": 1.69,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.57,
+"oh"
+],
+[
+0.67,
+"mid"
+],
+[
+0.84,
+"oo"
+],
+[
+0.96,
+"mid"
+],
+[
+1.05,
+"ee"
+],
+[
+1.17,
+"smile"
+]
+]
+},
+"bt_t_8_00": {
+"src": "bt_t_8_00.mp3",
+"text": "Eight o'clock.",
+"seconds": 1.72,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.61,
+"ee"
+],
+[
+0.76,
+"smile"
+],
+[
+0.91,
+"mid"
+],
+[
+1.08,
+"open"
+],
+[
+1.19,
+"smile"
+]
+]
+},
+"bt_t_8_15": {
+"src": "bt_t_8_15.mp3",
+"text": "Quarter past eight.",
+"seconds": 1.51,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.35,
+"oh"
+],
+[
+0.45,
+"mid"
+],
+[
+0.57,
+"smile"
+],
+[
+0.64,
+"open"
+],
+[
+0.8,
+"ee"
+],
+[
+0.93,
+"mid"
+],
+[
+1.06,
+"ee"
+],
+[
+1.23,
+"smile"
+]
+]
+},
+"bt_t_8_30": {
+"src": "bt_t_8_30.mp3",
+"text": "Half past eight.",
+"seconds": 1.93,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.62,
+"open"
+],
+[
+0.81,
+"ee"
+],
+[
+0.93,
+"smile"
+],
+[
+0.99,
+"open"
+],
+[
+1.14,
+"ee"
+],
+[
+1.29,
+"mid"
+],
+[
+1.44,
+"ee"
+],
+[
+1.61,
+"smile"
+]
+]
+},
+"bt_t_8_45": {
+"src": "bt_t_8_45.mp3",
+"text": "Quarter to nine.",
+"seconds": 2.04,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.5,
+"oh"
+],
+[
+0.66,
+"mid"
+],
+[
+0.85,
+"oo"
+],
+[
+0.99,
+"ee"
+],
+[
+1.14,
+"open"
+],
+[
+1.33,
+"ee"
+],
+[
+1.64,
+"smile"
+]
+]
+},
+"bt_t_9_00": {
+"src": "bt_t_9_00.mp3",
+"text": "Nine o'clock.",
+"seconds": 1.59,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.56,
+"open"
+],
+[
+0.66,
+"ee"
+],
+[
+0.85,
+"smile"
+],
+[
+0.91,
+"mid"
+],
+[
+1.03,
+"open"
+],
+[
+1.18,
+"ee"
+],
+[
+1.29,
+"smile"
+]
+]
+},
+"bt_t_9_15": {
+"src": "bt_t_9_15.mp3",
+"text": "Quarter past nine.",
+"seconds": 1.49,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.29,
+"oh"
+],
+[
+0.37,
+"mid"
+],
+[
+0.45,
+"smile"
+],
+[
+0.53,
+"open"
+],
+[
+0.67,
+"ee"
+],
+[
+0.99,
+"smile"
+]
+]
+},
+"bt_t_9_30": {
+"src": "bt_t_9_30.mp3",
+"text": "Half past nine.",
+"seconds": 1.48,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.15,
+"open"
+],
+[
+0.28,
+"ee"
+],
+[
+0.37,
+"smile"
+],
+[
+0.43,
+"open"
+],
+[
+0.57,
+"ee"
+],
+[
+0.79,
+"open"
+],
+[
+0.92,
+"ee"
+],
+[
+1.14,
+"smile"
+]
+]
+},
+"bt_t_9_45": {
+"src": "bt_t_9_45.mp3",
+"text": "Quarter to ten.",
+"seconds": 1.47,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"oh"
+],
+[
+0.67,
+"mid"
+],
+[
+1.12,
+"ee"
+],
+[
+1.21,
+"smile"
+]
+]
+},
+"bt_t_10_00": {
+"src": "bt_t_10_00.mp3",
+"text": "Ten o'clock.",
+"seconds": 1.39,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.35,
+"mid"
+],
+[
+0.53,
+"smile"
+],
+[
+0.65,
+"mid"
+],
+[
+0.72,
+"open"
+],
+[
+0.82,
+"smile"
+]
+]
+},
+"bt_t_10_15": {
+"src": "bt_t_10_15.mp3",
+"text": "Quarter past ten.",
+"seconds": 1.71,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.43,
+"oh"
+],
+[
+0.52,
+"mid"
+],
+[
+0.7,
+"smile"
+],
+[
+0.77,
+"open"
+],
+[
+0.93,
+"ee"
+],
+[
+1.09,
+"mid"
+],
+[
+1.24,
+"smile"
+]
+]
+},
+"bt_t_10_30": {
+"src": "bt_t_10_30.mp3",
+"text": "Half past ten.",
+"seconds": 1.56,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"open"
+],
+[
+0.48,
+"ee"
+],
+[
+0.56,
+"smile"
+],
+[
+0.62,
+"open"
+],
+[
+0.71,
+"ee"
+],
+[
+0.9,
+"mid"
+],
+[
+1.08,
+"smile"
+]
+]
+},
+"bt_t_10_45": {
+"src": "bt_t_10_45.mp3",
+"text": "Quarter to eleven.",
+"seconds": 1.74,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.5,
+"oh"
+],
+[
+0.61,
+"mid"
+],
+[
+0.73,
+"smile"
+],
+[
+0.79,
+"oo"
+],
+[
+0.96,
+"ee"
+],
+[
+1.06,
+"mid"
+],
+[
+1.35,
+"smile"
+]
+]
+},
+"bt_t_11_00": {
+"src": "bt_t_11_00.mp3",
+"text": "Eleven o'clock.",
+"seconds": 1.34,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.23,
+"ee"
+],
+[
+0.33,
+"mid"
+],
+[
+0.79,
+"open"
+],
+[
+0.9,
+"smile"
+]
+]
+},
+"bt_t_11_15": {
+"src": "bt_t_11_15.mp3",
+"text": "Quarter past eleven.",
+"seconds": 1.7,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"oh"
+],
+[
+0.6,
+"mid"
+],
+[
+0.7,
+"smile"
+],
+[
+0.77,
+"open"
+],
+[
+0.91,
+"ee"
+],
+[
+1.11,
+"mid"
+],
+[
+1.41,
+"smile"
+]
+]
+},
+"bt_t_11_30": {
+"src": "bt_t_11_30.mp3",
+"text": "Half past eleven.",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"open"
+],
+[
+0.53,
+"ee"
+],
+[
+0.62,
+"smile"
+],
+[
+0.68,
+"open"
+],
+[
+0.8,
+"ee"
+],
+[
+1.0,
+"mid"
+],
+[
+1.28,
+"smile"
+]
+]
+},
+"bt_t_11_45": {
+"src": "bt_t_11_45.mp3",
+"text": "Quarter to twelve.",
+"seconds": 2.1,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.7,
+"oh"
+],
+[
+0.85,
+"mid"
+],
+[
+1.08,
+"oo"
+],
+[
+1.27,
+"mid"
+],
+[
+1.52,
+"smile"
+]
+]
+},
+"bt_t_12_00": {
+"src": "bt_t_12_00.mp3",
+"text": "Twelve o'clock.",
+"seconds": 1.55,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.52,
+"mid"
+],
+[
+0.68,
+"ee"
+],
+[
+0.78,
+"mid"
+],
+[
+0.89,
+"open"
+],
+[
+1.0,
+"ee"
+],
+[
+1.14,
+"smile"
+]
+]
+},
+"bt_t_12_15": {
+"src": "bt_t_12_15.mp3",
+"text": "Quarter past twelve.",
+"seconds": 1.68,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.46,
+"oh"
+],
+[
+0.55,
+"mid"
+],
+[
+0.68,
+"smile"
+],
+[
+0.74,
+"open"
+],
+[
+0.86,
+"ee"
+],
+[
+1.0,
+"mid"
+],
+[
+1.22,
+"smile"
+]
+]
+},
+"bt_t_12_30": {
+"src": "bt_t_12_30.mp3",
+"text": "Half past twelve.",
+"seconds": 1.76,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.3,
+"open"
+],
+[
+0.52,
+"smile"
+],
+[
+0.67,
+"open"
+],
+[
+0.82,
+"ee"
+],
+[
+0.97,
+"mid"
+],
+[
+1.23,
+"smile"
+]
+]
+},
+"bt_t_12_45": {
+"src": "bt_t_12_45.mp3",
+"text": "Quarter to one.",
+"seconds": 1.59,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.5,
+"oh"
+],
+[
+0.57,
+"mid"
+],
+[
+0.78,
+"oo"
+],
+[
+0.95,
+"open"
+],
+[
+1.12,
+"smile"
+]
+]
+},
+"bt_day_mon": {
+"src": "bt_day_mon.mp3",
+"text": "Monday.",
+"seconds": 1.47,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.39,
+"mid"
+],
+[
+0.6,
+"ee"
+],
+[
+0.96,
+"smile"
+]
+]
+},
+"bt_day_tue": {
+"src": "bt_day_tue.mp3",
+"text": "Tuesday.",
+"seconds": 1.3,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.24,
+"oo"
+],
+[
+0.49,
+"ee"
+],
+[
+0.77,
+"smile"
+]
+]
+},
+"bt_day_wed": {
+"src": "bt_day_wed.mp3",
+"text": "Wednesday.",
+"seconds": 1.13,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.2,
+"mid"
+],
+[
+0.37,
+"ee"
+],
+[
+0.69,
+"smile"
+]
+]
+},
+"bt_day_thu": {
+"src": "bt_day_thu.mp3",
+"text": "Thursday.",
+"seconds": 1.24,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"mid"
+],
+[
+0.58,
+"ee"
+],
+[
+0.69,
+"mid"
+],
+[
+0.78,
+"ee"
+],
+[
+0.86,
+"smile"
+]
+]
+},
+"bt_day_fri": {
+"src": "bt_day_fri.mp3",
+"text": "Friday.",
+"seconds": 1.18,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.35,
+"open"
+],
+[
+0.48,
+"ee"
+],
+[
+0.71,
+"smile"
+]
+]
+},
+"bt_day_sat": {
+"src": "bt_day_sat.mp3",
+"text": "Saturday.",
+"seconds": 1.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.36,
+"open"
+],
+[
+0.5,
+"mid"
+],
+[
+0.61,
+"ee"
+],
+[
+0.76,
+"smile"
+]
+]
+},
+"bt_day_sun": {
+"src": "bt_day_sun.mp3",
+"text": "Sunday.",
+"seconds": 1.32,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.34,
+"ee"
+],
+[
+0.43,
+"mid"
+],
+[
+0.71,
+"ee"
+],
+[
+0.79,
+"smile"
+]
+]
+},
+"bt_month_01": {
+"src": "bt_month_01.mp3",
+"text": "January.",
+"seconds": 1.55,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.56,
+"open"
+],
+[
+0.67,
+"ee"
+],
+[
+0.76,
+"oo"
+],
+[
+0.88,
+"mid"
+],
+[
+1.03,
+"ee"
+],
+[
+1.16,
+"smile"
+]
+]
+},
+"bt_month_02": {
+"src": "bt_month_02.mp3",
+"text": "February.",
+"seconds": 1.58,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.61,
+"mid"
+],
+[
+0.72,
+"smile"
+],
+[
+0.78,
+"mid"
+],
+[
+1.15,
+"ee"
+],
+[
+1.26,
+"smile"
+]
+]
+},
+"bt_month_03": {
+"src": "bt_month_03.mp3",
+"text": "March.",
+"seconds": 1.04,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.27,
+"open"
+],
+[
+0.52,
+"mid"
+],
+[
+0.61,
+"oo"
+],
+[
+0.71,
+"smile"
+]
+]
+},
+"bt_month_04": {
+"src": "bt_month_04.mp3",
+"text": "April.",
+"seconds": 1.3,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.4,
+"mid"
+],
+[
+0.57,
+"smile"
+],
+[
+0.64,
+"mid"
+],
+[
+0.96,
+"smile"
+]
+]
+},
+"bt_month_05": {
+"src": "bt_month_05.mp3",
+"text": "May.",
+"seconds": 1.26,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.49,
+"mid"
+],
+[
+0.66,
+"ee"
+],
+[
+0.8,
+"smile"
+]
+]
+},
+"bt_month_06": {
+"src": "bt_month_06.mp3",
+"text": "June.",
+"seconds": 1.17,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.42,
+"oo"
+],
+[
+0.69,
+"ee"
+],
+[
+0.77,
+"smile"
+]
+]
+},
+"bt_month_07": {
+"src": "bt_month_07.mp3",
+"text": "July.",
+"seconds": 1.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.24,
+"oo"
+],
+[
+0.41,
+"mid"
+],
+[
+0.49,
+"open"
+],
+[
+0.57,
+"smile"
+]
+]
+},
+"bt_month_08": {
+"src": "bt_month_08.mp3",
+"text": "August.",
+"seconds": 1.18,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"open"
+],
+[
+0.58,
+"mid"
+],
+[
+0.76,
+"ee"
+],
+[
+0.89,
+"smile"
+]
+]
+},
+"bt_month_09": {
+"src": "bt_month_09.mp3",
+"text": "September.",
+"seconds": 1.09,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.26,
+"mid"
+],
+[
+0.37,
+"smile"
+],
+[
+0.43,
+"mid"
+],
+[
+0.55,
+"smile"
+],
+[
+0.61,
+"mid"
+],
+[
+0.72,
+"smile"
+]
+]
+},
+"bt_month_10": {
+"src": "bt_month_10.mp3",
+"text": "October.",
+"seconds": 1.3,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.21,
+"open"
+],
+[
+0.43,
+"ee"
+],
+[
+0.55,
+"oh"
+],
+[
+0.66,
+"oo"
+],
+[
+0.77,
+"smile"
+],
+[
+0.83,
+"mid"
+],
+[
+1.04,
+"smile"
+]
+]
+},
+"bt_month_11": {
+"src": "bt_month_11.mp3",
+"text": "November.",
+"seconds": 1.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"ee"
+],
+[
+0.28,
+"oh"
+],
+[
+0.42,
+"oo"
+],
+[
+0.52,
+"ee"
+],
+[
+0.61,
+"mid"
+],
+[
+0.85,
+"smile"
+],
+[
+1.02,
+"mid"
+],
+[
+1.26,
+"smile"
+]
+]
+},
+"bt_month_12": {
+"src": "bt_month_12.mp3",
+"text": "December.",
+"seconds": 1.32,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.41,
+"ee"
+],
+[
+0.58,
+"mid"
+],
+[
+0.69,
+"smile"
+],
+[
+0.76,
+"mid"
+],
+[
+0.85,
+"smile"
+]
+]
+},
+"bt_ok1": {
+"src": "bt_ok1.mp3",
+"text": "That's right!",
+"seconds": 1.16,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.37,
+"open"
+],
+[
+0.49,
+"ee"
+],
+[
+0.77,
+"smile"
+]
+]
+},
+"bt_ok2": {
+"src": "bt_ok2.mp3",
+"text": "Yes! You got it!",
+"seconds": 1.66,
+"cues": [
+[
+0.0,
+"smile"
+],
+[
+0.18,
+"mid"
+],
+[
+0.47,
+"ee"
+],
+[
+0.57,
+"smile"
+],
+[
+0.71,
+"oo"
+],
+[
+0.95,
+"open"
+],
+[
+1.1,
+"ee"
+],
+[
+1.21,
+"smile"
+]
+]
 }
 }
