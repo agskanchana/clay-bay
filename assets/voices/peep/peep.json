@@ -1,0 +1,53 @@
+{
+ "hi": [
+  "hi1.mp3",
+  "hi2.mp3",
+  "hi3.mp3"
+ ],
+ "yay": [
+  "yay1.mp3",
+  "yay2.mp3",
+  "yay3.mp3",
+  "yay4.mp3"
+ ],
+ "wee": [
+  "wee1.mp3",
+  "wee2.mp3",
+  "wee3.mp3"
+ ],
+ "oops": [
+  "oops1.mp3",
+  "oops2.mp3",
+  "oops3.mp3"
+ ],
+ "wow": [
+  "wow1.mp3",
+  "wow2.mp3",
+  "wow3.mp3"
+ ],
+ "yum": [
+  "yum1.mp3",
+  "yum2.mp3",
+  "yum3.mp3"
+ ],
+ "giggle": [
+  "giggle1.mp3",
+  "giggle2.mp3",
+  "giggle3.mp3"
+ ],
+ "bye": [
+  "bye1.mp3",
+  "bye2.mp3",
+  "bye3.mp3"
+ ],
+ "eek": [
+  "eek1.mp3",
+  "eek2.mp3"
+ ],
+ "chatter": [
+  "chat1.mp3",
+  "chat2.mp3",
+  "chat3.mp3",
+  "chat4.mp3"
+ ]
+}
